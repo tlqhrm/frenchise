@@ -1,0 +1,10404 @@
+[
+	{
+		"place" : "파리바게트 대우월드마크점",
+		"id" : 7,
+		"place_id" : 11,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구감삼드림점",
+		"id" : 8,
+		"place_id" : 12,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "관평드림약국",
+		"id" : 9,
+		"place_id" : 13,
+		"payment" : "apple_visa",
+		"writer" : "Kev"
+	},
+	{
+		"place" : "CU 죽동프라임점",
+		"id" : 10,
+		"place_id" : 14,
+		"payment" : "apple_visa",
+		"writer" : "Kev"
+	},
+	{
+		"place" : "GS25 대전상록수점",
+		"id" : 11,
+		"place_id" : 15,
+		"payment" : "apple_visa",
+		"writer" : "네오찰스"
+	},
+	{
+		"place" : "충남대학교 우편취급국",
+		"id" : 12,
+		"place_id" : 16,
+		"payment" : "apple_visa",
+		"writer" : "Kev"
+	},
+	{
+		"place" : "GS25 대전죽동점",
+		"id" : 13,
+		"place_id" : 17,
+		"payment" : "apple_visa",
+		"writer" : "Kev"
+	},
+	{
+		"place" : "CU 군산솔비앙점",
+		"id" : 14,
+		"place_id" : 18,
+		"payment" : "apple_master",
+		"writer" : "틴톡"
+	},
+	{
+		"place" : "CU 군산수송점",
+		"id" : 15,
+		"place_id" : 19,
+		"payment" : "apple_master",
+		"writer" : "틴톡"
+	},
+	{
+		"place" : "cu 오산내삼미스카이점",
+		"id" : 17,
+		"place_id" : 23,
+		"payment" : "apple_visa",
+		"writer" : "서작ip13proMax"
+	},
+	{
+		"place" : "홈플러스 오산점 (지하계산대)",
+		"id" : 20,
+		"place_id" : 26,
+		"payment" : "apple_visa",
+		"writer" : "틴톡"
+	},
+	{
+		"place" : "파리바게트 성남도촌점",
+		"id" : 21,
+		"place_id" : 28,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 청량리역점",
+		"id" : 22,
+		"place_id" : 29,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "CU 성남도촌점",
+		"id" : 23,
+		"place_id" : 30,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 당진신평점",
+		"id" : 25,
+		"place_id" : 33,
+		"payment" : "apple_master",
+		"writer" : "개네"
+	},
+	{
+		"place" : "CU 당진서정초점",
+		"id" : 26,
+		"place_id" : 34,
+		"payment" : "apple_visa",
+		"writer" : "개네"
+	},
+	{
+		"place" : "CU 당진서정초점",
+		"id" : 27,
+		"place_id" : 34,
+		"payment" : "apple_master",
+		"writer" : "개네"
+	},
+	{
+		"place" : "GS25 성남타운점",
+		"id" : 28,
+		"place_id" : 59,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "빽다방 산성역점",
+		"id" : 29,
+		"place_id" : 60,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 S8산성역점",
+		"id" : 30,
+		"place_id" : 61,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 산성포레스티아점",
+		"id" : 31,
+		"place_id" : 62,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 성남 우리점",
+		"id" : 32,
+		"place_id" : 63,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 신흥 빌리지점",
+		"id" : 33,
+		"place_id" : 64,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 성남 태평타운점",
+		"id" : 34,
+		"place_id" : 65,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 성남메드위즈점",
+		"id" : 35,
+		"place_id" : 66,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 신흥골드점",
+		"id" : 36,
+		"place_id" : 67,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 신흥강자점",
+		"id" : 37,
+		"place_id" : 68,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 오남상일점",
+		"id" : 2221,
+		"place_id" : 762,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남대한점",
+		"id" : 2222,
+		"place_id" : 763,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 오남신일점",
+		"id" : 2223,
+		"place_id" : 764,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 오남신일점",
+		"id" : 2224,
+		"place_id" : 764,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 진건송능점",
+		"id" : 2225,
+		"place_id" : 765,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 진건송능점",
+		"id" : 2226,
+		"place_id" : 765,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남동명점",
+		"id" : 2227,
+		"place_id" : 766,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 언더랜드점 (오거스팩토리)",
+		"id" : 2228,
+		"place_id" : 767,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 진접DT점",
+		"id" : 2229,
+		"place_id" : 769,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 진접DT점",
+		"id" : 2230,
+		"place_id" : 769,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남호수점",
+		"id" : 2231,
+		"place_id" : 770,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 남양주본점",
+		"id" : 2232,
+		"place_id" : 771,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 잠실역점",
+		"id" : 2233,
+		"place_id" : 772,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 잠실역점",
+		"id" : 2234,
+		"place_id" : 772,
+		"payment" : "apple_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 잠실롯데월드몰B1점",
+		"id" : 2235,
+		"place_id" : 773,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 월드점",
+		"id" : 2236,
+		"place_id" : 774,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "투썸플레이스 남양주오남점 (해외비자 아예불가)",
+		"id" : 2237,
+		"place_id" : 776,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 홈플러스오산세교점",
+		"id" : 2238,
+		"place_id" : 779,
+		"payment" : "apple_master",
+		"writer" : "서작ip13proMax"
+	},
+	{
+		"place" : "빽다방 산성역점",
+		"id" : 2239,
+		"place_id" : 60,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 양지사랑점",
+		"id" : 2240,
+		"place_id" : 784,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 양지사랑점",
+		"id" : 2241,
+		"place_id" : 784,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지2호점",
+		"id" : 2242,
+		"place_id" : 785,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지2호점",
+		"id" : 2243,
+		"place_id" : 785,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지점",
+		"id" : 2244,
+		"place_id" : 786,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지점",
+		"id" : 2245,
+		"place_id" : 786,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행공원점",
+		"id" : 2246,
+		"place_id" : 787,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행공원점",
+		"id" : 2247,
+		"place_id" : 787,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남을지산성점",
+		"id" : 2248,
+		"place_id" : 788,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남을지산성점",
+		"id" : 2249,
+		"place_id" : 788,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행현대점",
+		"id" : 2250,
+		"place_id" : 789,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행현대점",
+		"id" : 2251,
+		"place_id" : 789,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남희망점",
+		"id" : 2252,
+		"place_id" : 790,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남희망점",
+		"id" : 2253,
+		"place_id" : 790,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행번영점",
+		"id" : 2254,
+		"place_id" : 791,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행번영점",
+		"id" : 2255,
+		"place_id" : 791,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남감나무골점",
+		"id" : 2256,
+		"place_id" : 792,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남감나무골점",
+		"id" : 2257,
+		"place_id" : 792,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행길목점",
+		"id" : 2258,
+		"place_id" : 793,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행길목점",
+		"id" : 2259,
+		"place_id" : 793,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행주공점",
+		"id" : 2260,
+		"place_id" : 794,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행주공점",
+		"id" : 2261,
+		"place_id" : 794,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광본점",
+		"id" : 2262,
+		"place_id" : 795,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광본점",
+		"id" : 2263,
+		"place_id" : 795,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 금광빌리지점",
+		"id" : 2264,
+		"place_id" : 796,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 금광빌리지점",
+		"id" : 2265,
+		"place_id" : 796,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남단대역점",
+		"id" : 2266,
+		"place_id" : 797,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남단대역점",
+		"id" : 2267,
+		"place_id" : 797,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광단대점",
+		"id" : 2268,
+		"place_id" : 798,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광단대점",
+		"id" : 2269,
+		"place_id" : 798,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원점",
+		"id" : 2270,
+		"place_id" : 799,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원점",
+		"id" : 2271,
+		"place_id" : 799,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원금상점",
+		"id" : 2272,
+		"place_id" : 800,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원금상점",
+		"id" : 2273,
+		"place_id" : 800,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원박석로점",
+		"id" : 2274,
+		"place_id" : 801,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원박석로점",
+		"id" : 2275,
+		"place_id" : 801,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남제일점",
+		"id" : 2276,
+		"place_id" : 802,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남제일점",
+		"id" : 2277,
+		"place_id" : 802,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반석정든점",
+		"id" : 2278,
+		"place_id" : 803,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반석정든점",
+		"id" : 2279,
+		"place_id" : 803,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평성대점",
+		"id" : 2280,
+		"place_id" : 804,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평성대점",
+		"id" : 2281,
+		"place_id" : 804,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원본점",
+		"id" : 2282,
+		"place_id" : 805,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원본점",
+		"id" : 2283,
+		"place_id" : 805,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남소울트리점",
+		"id" : 2284,
+		"place_id" : 806,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남소울트리점",
+		"id" : 2285,
+		"place_id" : 806,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례1호점",
+		"id" : 2286,
+		"place_id" : 807,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례1호점",
+		"id" : 2287,
+		"place_id" : 807,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남인더스점",
+		"id" : 2288,
+		"place_id" : 808,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남인더스점",
+		"id" : 2289,
+		"place_id" : 808,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평금빛점",
+		"id" : 2290,
+		"place_id" : 809,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평금빛점",
+		"id" : 2291,
+		"place_id" : 809,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남산성번영점",
+		"id" : 2292,
+		"place_id" : 810,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남산성번영점",
+		"id" : 2293,
+		"place_id" : 810,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례2호점",
+		"id" : 2294,
+		"place_id" : 811,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례2호점",
+		"id" : 2295,
+		"place_id" : 811,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평이마트점",
+		"id" : 2296,
+		"place_id" : 812,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평이마트점",
+		"id" : 2297,
+		"place_id" : 812,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남라이온스밸리점",
+		"id" : 2298,
+		"place_id" : 813,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남라이온스밸리점",
+		"id" : 2299,
+		"place_id" : 813,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 하남엠코점",
+		"id" : 2300,
+		"place_id" : 814,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 하남엠코점",
+		"id" : 2301,
+		"place_id" : 814,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원중앙점",
+		"id" : 2302,
+		"place_id" : 815,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원중앙점",
+		"id" : 2303,
+		"place_id" : 815,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례참좋은점",
+		"id" : 2304,
+		"place_id" : 816,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례참좋은점",
+		"id" : 2305,
+		"place_id" : 816,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례중앙타워점",
+		"id" : 2306,
+		"place_id" : 817,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례중앙타워점",
+		"id" : 2307,
+		"place_id" : 817,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원본점",
+		"id" : 2308,
+		"place_id" : 818,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원본점",
+		"id" : 2309,
+		"place_id" : 818,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남광장점",
+		"id" : 2310,
+		"place_id" : 819,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남광장점",
+		"id" : 2311,
+		"place_id" : 819,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진중앙점",
+		"id" : 2312,
+		"place_id" : 820,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진중앙점",
+		"id" : 2313,
+		"place_id" : 820,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 서울복합물류단지점",
+		"id" : 2314,
+		"place_id" : 821,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 서울복합물류단지점",
+		"id" : 2315,
+		"place_id" : 821,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙시장점",
+		"id" : 2316,
+		"place_id" : 822,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙시장점",
+		"id" : 2317,
+		"place_id" : 822,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정중앙점",
+		"id" : 2318,
+		"place_id" : 823,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정중앙점",
+		"id" : 2319,
+		"place_id" : 823,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 태평마리골드점",
+		"id" : 2320,
+		"place_id" : 824,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 태평마리골드점",
+		"id" : 2321,
+		"place_id" : 824,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남대원중앙점",
+		"id" : 2322,
+		"place_id" : 825,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남대원중앙점",
+		"id" : 2323,
+		"place_id" : 825,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남크란츠빌점",
+		"id" : 2324,
+		"place_id" : 826,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남크란츠빌점",
+		"id" : 2325,
+		"place_id" : 826,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정국제점",
+		"id" : 2326,
+		"place_id" : 827,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정국제점",
+		"id" : 2327,
+		"place_id" : 827,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수정점",
+		"id" : 2328,
+		"place_id" : 828,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수정점",
+		"id" : 2329,
+		"place_id" : 828,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남공단본점",
+		"id" : 2330,
+		"place_id" : 829,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남공단본점",
+		"id" : 2331,
+		"place_id" : 829,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남오거리점",
+		"id" : 2332,
+		"place_id" : 830,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남오거리점",
+		"id" : 2333,
+		"place_id" : 830,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙점",
+		"id" : 2334,
+		"place_id" : 831,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙점",
+		"id" : 2335,
+		"place_id" : 831,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남동서울대점",
+		"id" : 2336,
+		"place_id" : 832,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남동서울대점",
+		"id" : 2337,
+		"place_id" : 832,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반포산업점",
+		"id" : 2338,
+		"place_id" : 833,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반포산업점",
+		"id" : 2339,
+		"place_id" : 833,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 장지대진점",
+		"id" : 2340,
+		"place_id" : 834,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 장지대진점",
+		"id" : 2341,
+		"place_id" : 834,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남어울림점",
+		"id" : 2342,
+		"place_id" : 835,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남어울림점",
+		"id" : 2343,
+		"place_id" : 835,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중원빌리지점",
+		"id" : 2344,
+		"place_id" : 836,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중원빌리지점",
+		"id" : 2345,
+		"place_id" : 836,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원일성점",
+		"id" : 2346,
+		"place_id" : 837,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원일성점",
+		"id" : 2347,
+		"place_id" : 837,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대3호점",
+		"id" : 2348,
+		"place_id" : 838,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대3호점",
+		"id" : 2349,
+		"place_id" : 838,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평중파점",
+		"id" : 2350,
+		"place_id" : 839,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평중파점",
+		"id" : 2351,
+		"place_id" : 839,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원별빛점",
+		"id" : 2352,
+		"place_id" : 840,
+		"payment" : "apple_visa",
+		"writer" : "DY"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원별빛점",
+		"id" : 2353,
+		"place_id" : 840,
+		"payment" : "apple_visa",
+		"writer" : "DY"
+	},
+	{
+		"place" : "세븐일레븐 성남시그마밸리점",
+		"id" : 2354,
+		"place_id" : 841,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남시그마밸리점",
+		"id" : 2355,
+		"place_id" : 841,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진본점",
+		"id" : 2356,
+		"place_id" : 842,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진본점",
+		"id" : 2357,
+		"place_id" : 842,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남가천대역점",
+		"id" : 2358,
+		"place_id" : 843,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남가천대역점",
+		"id" : 2359,
+		"place_id" : 843,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대1호점",
+		"id" : 2360,
+		"place_id" : 844,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대1호점",
+		"id" : 2361,
+		"place_id" : 844,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란중앙점",
+		"id" : 2362,
+		"place_id" : 845,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란중앙점",
+		"id" : 2363,
+		"place_id" : 845,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원스타점",
+		"id" : 2364,
+		"place_id" : 846,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원스타점",
+		"id" : 2365,
+		"place_id" : 846,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 송파장지점",
+		"id" : 2366,
+		"place_id" : 847,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 송파장지점",
+		"id" : 2367,
+		"place_id" : 847,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남메디컬점",
+		"id" : 2368,
+		"place_id" : 848,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남메디컬점",
+		"id" : 2369,
+		"place_id" : 848,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평점",
+		"id" : 2370,
+		"place_id" : 849,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평점",
+		"id" : 2371,
+		"place_id" : 849,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남운동장점",
+		"id" : 2372,
+		"place_id" : 850,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남운동장점",
+		"id" : 2373,
+		"place_id" : 850,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란수진점",
+		"id" : 2374,
+		"place_id" : 851,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란수진점",
+		"id" : 2375,
+		"place_id" : 851,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 단대오거리역점",
+		"id" : 2376,
+		"place_id" : 853,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "우체국 성남점",
+		"id" : 2377,
+		"place_id" : 855,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "우체국 성남점",
+		"id" : 2378,
+		"place_id" : 855,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 2379,
+		"place_id" : 856,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 2380,
+		"place_id" : 856,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 2381,
+		"place_id" : 857,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 2382,
+		"place_id" : 857,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 2383,
+		"place_id" : 857,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 2384,
+		"place_id" : 857,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 2385,
+		"place_id" : 857,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 2386,
+		"place_id" : 857,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 2387,
+		"place_id" : 858,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 2388,
+		"place_id" : 858,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 2389,
+		"place_id" : 858,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 2390,
+		"place_id" : 858,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 2391,
+		"place_id" : 858,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 2392,
+		"place_id" : 858,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 2393,
+		"place_id" : 859,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 2394,
+		"place_id" : 859,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 2395,
+		"place_id" : 859,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 2396,
+		"place_id" : 859,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 2397,
+		"place_id" : 859,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 2398,
+		"place_id" : 859,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 2399,
+		"place_id" : 860,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 2400,
+		"place_id" : 860,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 2401,
+		"place_id" : 860,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 2402,
+		"place_id" : 860,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 2403,
+		"place_id" : 860,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 2404,
+		"place_id" : 860,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금동우편취급국",
+		"id" : 2405,
+		"place_id" : 861,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금동우편취급국",
+		"id" : 2406,
+		"place_id" : 861,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남태평2동우편취급국",
+		"id" : 2407,
+		"place_id" : 862,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금광동우체국",
+		"id" : 2408,
+		"place_id" : 863,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금광동우체국",
+		"id" : 2409,
+		"place_id" : 863,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남단대동우체국",
+		"id" : 2410,
+		"place_id" : 864,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남단대동우체국",
+		"id" : 2411,
+		"place_id" : 864,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 2412,
+		"place_id" : 865,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 2413,
+		"place_id" : 865,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 2414,
+		"place_id" : 865,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 2415,
+		"place_id" : 865,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 2416,
+		"place_id" : 865,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 2417,
+		"place_id" : 865,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 잠실점",
+		"id" : 2418,
+		"place_id" : 866,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 잠실점",
+		"id" : 2419,
+		"place_id" : 866,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 강동점",
+		"id" : 2420,
+		"place_id" : 867,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 강동점",
+		"id" : 2421,
+		"place_id" : 867,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 경기하남점",
+		"id" : 2422,
+		"place_id" : 868,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 경기하남점",
+		"id" : 2423,
+		"place_id" : 868,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 분당오리점",
+		"id" : 2424,
+		"place_id" : 869,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 분당오리점",
+		"id" : 2425,
+		"place_id" : 869,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 2426,
+		"place_id" : 870,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 2427,
+		"place_id" : 870,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 2428,
+		"place_id" : 870,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 2429,
+		"place_id" : 870,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 2430,
+		"place_id" : 870,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 2431,
+		"place_id" : 870,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 2432,
+		"place_id" : 871,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 2433,
+		"place_id" : 871,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 2434,
+		"place_id" : 871,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 2435,
+		"place_id" : 871,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 2436,
+		"place_id" : 871,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 2437,
+		"place_id" : 871,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 2438,
+		"place_id" : 872,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 2439,
+		"place_id" : 872,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 2440,
+		"place_id" : 872,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 2441,
+		"place_id" : 872,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 2442,
+		"place_id" : 872,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 2443,
+		"place_id" : 872,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 2444,
+		"place_id" : 873,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 2445,
+		"place_id" : 873,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 2446,
+		"place_id" : 873,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 2447,
+		"place_id" : 873,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 2448,
+		"place_id" : 873,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 2449,
+		"place_id" : 873,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 강릉교동점",
+		"id" : 2451,
+		"place_id" : 875,
+		"payment" : "apple_master",
+		"writer" : "그녀"
+	},
+	{
+		"place" : "CU 관악진우점",
+		"id" : 2452,
+		"place_id" : 883,
+		"payment" : "apple_master",
+		"writer" : "><"
+	},
+	{
+		"place" : "CU 서초우면점",
+		"id" : 2453,
+		"place_id" : 876,
+		"payment" : "apple_master",
+		"writer" : "><"
+	},
+	{
+		"place" : "CU 서울대중앙도서관점",
+		"id" : 2454,
+		"place_id" : 885,
+		"payment" : "apple_master",
+		"writer" : "><"
+	},
+	{
+		"place" : "CU 교동센타점",
+		"id" : 2455,
+		"place_id" : 886,
+		"payment" : "apple_master",
+		"writer" : "그녀"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 2456,
+		"place_id" : 889,
+		"payment" : "apple_master",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 2457,
+		"place_id" : 889,
+		"payment" : "apple_visa",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 2458,
+		"place_id" : 889,
+		"payment" : "apple_master",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 2459,
+		"place_id" : 890,
+		"payment" : "apple_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 2460,
+		"place_id" : 890,
+		"payment" : "apple_visa",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 2461,
+		"place_id" : 890,
+		"payment" : "apple_visa",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 2462,
+		"place_id" : 890,
+		"payment" : "apple_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 2463,
+		"place_id" : 890,
+		"payment" : "apple_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 2464,
+		"place_id" : 890,
+		"payment" : "apple_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 2465,
+		"place_id" : 890,
+		"payment" : "apple_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "대현환경",
+		"id" : 2466,
+		"place_id" : 891,
+		"payment" : "apple_master",
+		"writer" : "대현"
+	},
+	{
+		"place" : "가리봉동",
+		"id" : 2467,
+		"place_id" : 892,
+		"payment" : "apple_master",
+		"writer" : "9급"
+	},
+	{
+		"place" : "가리봉동",
+		"id" : 2468,
+		"place_id" : 892,
+		"payment" : "apple_visa",
+		"writer" : "9급"
+	},
+	{
+		"place" : "태경소",
+		"id" : 2469,
+		"place_id" : 893,
+		"payment" : "apple_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 2470,
+		"place_id" : 893,
+		"payment" : "apple_visa",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 2471,
+		"place_id" : 893,
+		"payment" : "apple_visa",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 2472,
+		"place_id" : 893,
+		"payment" : "apple_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 2473,
+		"place_id" : 893,
+		"payment" : "apple_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 2474,
+		"place_id" : 893,
+		"payment" : "apple_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 2475,
+		"place_id" : 893,
+		"payment" : "apple_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "라발스",
+		"id" : 2476,
+		"place_id" : 894,
+		"payment" : "apple_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 2477,
+		"place_id" : 894,
+		"payment" : "apple_visa",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 2478,
+		"place_id" : 894,
+		"payment" : "apple_visa",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 2479,
+		"place_id" : 894,
+		"payment" : "apple_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 2480,
+		"place_id" : 894,
+		"payment" : "apple_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 2481,
+		"place_id" : 894,
+		"payment" : "apple_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 2482,
+		"place_id" : 894,
+		"payment" : "apple_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "CU 김제원평점",
+		"id" : 2483,
+		"place_id" : 896,
+		"payment" : "apple_visa",
+		"writer" : "최혁준"
+	},
+	{
+		"place" : "세븐일레븐 김제원평점",
+		"id" : 2484,
+		"place_id" : 897,
+		"payment" : "apple_visa",
+		"writer" : "혁준이"
+	},
+	{
+		"place" : "세븐일레븐 김제원평점",
+		"id" : 2485,
+		"place_id" : 899,
+		"payment" : "apple_visa",
+		"writer" : "혁준이"
+	},
+	{
+		"place" : "GS25 뉴금산사IC점",
+		"id" : 2486,
+		"place_id" : 900,
+		"payment" : "apple_visa",
+		"writer" : "혁준이"
+	},
+	{
+		"place" : "스타벅스 해운대역점",
+		"id" : 2487,
+		"place_id" : 902,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 해운대역점",
+		"id" : 2488,
+		"place_id" : 902,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 해운대역점",
+		"id" : 2489,
+		"place_id" : 902,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 해운대역점",
+		"id" : 2490,
+		"place_id" : 902,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 해운대역점",
+		"id" : 2491,
+		"place_id" : 902,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 국군수도병원점",
+		"id" : 2492,
+		"place_id" : 904,
+		"payment" : "apple_visa",
+		"writer" : "엘"
+	},
+	{
+		"place" : "스타벅스 압구정역점",
+		"id" : 2493,
+		"place_id" : 906,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 압구정역점",
+		"id" : 2494,
+		"place_id" : 906,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 가로수길점",
+		"id" : 2495,
+		"place_id" : 907,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 가로수길점",
+		"id" : 2496,
+		"place_id" : 907,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 고속터미널 점, 스타벅스",
+		"id" : 2497,
+		"place_id" : 908,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 고속터미널 점, 스타벅스",
+		"id" : 2498,
+		"place_id" : 908,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 김포양촌점",
+		"id" : 2499,
+		"place_id" : 909,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "투썸플레이스 김포DT점",
+		"id" : 2500,
+		"place_id" : 910,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "폴바셋 김포구래DT점",
+		"id" : 2501,
+		"place_id" : 911,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "폴바셋 전주금암DT점",
+		"id" : 2502,
+		"place_id" : 912,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "폴바셋 송도트리플스트리트점",
+		"id" : 2503,
+		"place_id" : 913,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU 그린시티주유소점",
+		"id" : 2504,
+		"place_id" : 914,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU 그린시티주유소점",
+		"id" : 2505,
+		"place_id" : 914,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "홈플러스 메가푸드마켓 간석점",
+		"id" : 2506,
+		"place_id" : 915,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "홈플러스 고양터미널점",
+		"id" : 2507,
+		"place_id" : 916,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "홈플러스익스프레스 김포양곡점",
+		"id" : 2508,
+		"place_id" : 917,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "세븐일레븐 봉수대로점",
+		"id" : 2509,
+		"place_id" : 918,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU 검단명인점",
+		"id" : 2510,
+		"place_id" : 919,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU 검단명인점",
+		"id" : 2511,
+		"place_id" : 919,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "롯데리아 김포양곡점",
+		"id" : 2512,
+		"place_id" : 920,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "롯데리아 양평점",
+		"id" : 2513,
+		"place_id" : 921,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU 감정중앙점",
+		"id" : 2514,
+		"place_id" : 922,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU 감정중앙점",
+		"id" : 2515,
+		"place_id" : 922,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "맥도날드 김포감정DT점",
+		"id" : 2516,
+		"place_id" : 923,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "맥도날드 장기DT점",
+		"id" : 2517,
+		"place_id" : 924,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "세븐일레븐 김포골든타임점",
+		"id" : 2518,
+		"place_id" : 925,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "세븐일레븐 김포중앙점",
+		"id" : 2519,
+		"place_id" : 926,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU 양곡빌리지점",
+		"id" : 2520,
+		"place_id" : 927,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU 양곡빌리지점",
+		"id" : 2521,
+		"place_id" : 927,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "GS25 서창꿈에그린점",
+		"id" : 2522,
+		"place_id" : 928,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "롯데리아 인천서창점",
+		"id" : 2523,
+		"place_id" : 929,
+		"payment" : "apple_master",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "GS25 노들역점",
+		"id" : 2524,
+		"place_id" : 930,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "세븐일레븐 김포걸포점",
+		"id" : 2525,
+		"place_id" : 931,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "양곡우체국",
+		"id" : 2526,
+		"place_id" : 932,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "세븐일레븐 양곡새롬점",
+		"id" : 2527,
+		"place_id" : 933,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "세븐일레븐 양곡초원점",
+		"id" : 2528,
+		"place_id" : 934,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "GS25 강화나들길점",
+		"id" : 2529,
+		"place_id" : 935,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "세븐일레븐 강화장정리점",
+		"id" : 2530,
+		"place_id" : 936,
+		"payment" : "apple_visa",
+		"writer" : "게이트피시"
+	},
+	{
+		"place" : "CU옥천 양수점",
+		"id" : 2531,
+		"place_id" : 944,
+		"payment" : "apple_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "세븐일레븐 충북옥천가화점",
+		"id" : 2532,
+		"place_id" : 945,
+		"payment" : "apple_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "CU 옥천지엘점",
+		"id" : 2533,
+		"place_id" : 946,
+		"payment" : "apple_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "GS25 양수점",
+		"id" : 2534,
+		"place_id" : 947,
+		"payment" : "apple_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "맥도날드 산본이마트점",
+		"id" : 2535,
+		"place_id" : 948,
+		"payment" : "apple_master",
+		"writer" : "13i"
+	},
+	{
+		"place" : "GS25 여의도역점",
+		"id" : 2536,
+		"place_id" : 949,
+		"payment" : "apple_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 여의도역점",
+		"id" : 2537,
+		"place_id" : 949,
+		"payment" : "apple_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 S9 여의도역점",
+		"id" : 2538,
+		"place_id" : 950,
+		"payment" : "apple_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 S9 여의도역점",
+		"id" : 2539,
+		"place_id" : 950,
+		"payment" : "apple_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "미니스톱 대야미역점",
+		"id" : 2540,
+		"place_id" : 952,
+		"payment" : "apple_master",
+		"writer" : "13i"
+	},
+	{
+		"place" : "맥도날드 중계점",
+		"id" : 2541,
+		"place_id" : 32,
+		"payment" : "apple_master",
+		"writer" : "Wee"
+	},
+	{
+		"place" : "CU 성덕미소점",
+		"id" : 2542,
+		"place_id" : 958,
+		"payment" : "apple_master",
+		"writer" : "juneh"
+	},
+	{
+		"place" : "CU 충북혁신골드타워점",
+		"id" : 2543,
+		"place_id" : 959,
+		"payment" : "apple_visa",
+		"writer" : "엠구"
+	},
+	{
+		"place" : "롯데리아 오남어람점",
+		"id" : 2544,
+		"place_id" : 960,
+		"payment" : "apple_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 2545,
+		"place_id" : 961,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 2546,
+		"place_id" : 961,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 2547,
+		"place_id" : 961,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 2548,
+		"place_id" : 961,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 2549,
+		"place_id" : 961,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 2550,
+		"place_id" : 962,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 2551,
+		"place_id" : 962,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 2552,
+		"place_id" : 962,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 2553,
+		"place_id" : 962,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 2554,
+		"place_id" : 962,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 2555,
+		"place_id" : 963,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 2556,
+		"place_id" : 963,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 2557,
+		"place_id" : 963,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 2558,
+		"place_id" : 963,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 2559,
+		"place_id" : 963,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 2560,
+		"place_id" : 963,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 2561,
+		"place_id" : 963,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 2562,
+		"place_id" : 964,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 2563,
+		"place_id" : 964,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 2564,
+		"place_id" : 964,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 2565,
+		"place_id" : 964,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 2566,
+		"place_id" : 964,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 2567,
+		"place_id" : 964,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 2568,
+		"place_id" : 964,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 2569,
+		"place_id" : 965,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 2570,
+		"place_id" : 965,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 2571,
+		"place_id" : 965,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 2572,
+		"place_id" : 965,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 2573,
+		"place_id" : 965,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 2574,
+		"place_id" : 965,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 2575,
+		"place_id" : 965,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 2576,
+		"place_id" : 966,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 2577,
+		"place_id" : 966,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 2578,
+		"place_id" : 966,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 2579,
+		"place_id" : 966,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 2580,
+		"place_id" : 966,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 2581,
+		"place_id" : 966,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 2582,
+		"place_id" : 966,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 2583,
+		"place_id" : 967,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 2584,
+		"place_id" : 967,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 2585,
+		"place_id" : 967,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 2586,
+		"place_id" : 967,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 2587,
+		"place_id" : 967,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 2588,
+		"place_id" : 968,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 2589,
+		"place_id" : 968,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 2590,
+		"place_id" : 968,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 2591,
+		"place_id" : 968,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 2592,
+		"place_id" : 968,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 장덕미소점",
+		"id" : 2593,
+		"place_id" : 969,
+		"payment" : "apple_master",
+		"writer" : "Juneh"
+	},
+	{
+		"place" : "CU 장덕미소점",
+		"id" : 2594,
+		"place_id" : 969,
+		"payment" : "apple_visa",
+		"writer" : "Juneh"
+	},
+	{
+		"place" : "CU 왕십리센트라스점",
+		"id" : 2595,
+		"place_id" : 970,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 왕십리센트라스점",
+		"id" : 2596,
+		"place_id" : 970,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 상왕십리역점",
+		"id" : 2597,
+		"place_id" : 971,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 상왕십리역점",
+		"id" : 2598,
+		"place_id" : 971,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 센트라스중앙점",
+		"id" : 2599,
+		"place_id" : 972,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 센트라스중앙점",
+		"id" : 2600,
+		"place_id" : 972,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "GS25 양지사거리점",
+		"id" : 2601,
+		"place_id" : 973,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "미니스톱 왕십리센트럴점",
+		"id" : 2602,
+		"place_id" : 974,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "미니스톱 왕십리센트럴점",
+		"id" : 2603,
+		"place_id" : 974,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 한양대사랑점",
+		"id" : 2604,
+		"place_id" : 975,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "세븐일레븐 행당미르점",
+		"id" : 2605,
+		"place_id" : 976,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "롯데리아 왕십리역점",
+		"id" : 2606,
+		"place_id" : 977,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "롯데리아 왕십리역점",
+		"id" : 2607,
+		"place_id" : 977,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 강릉안목해변점",
+		"id" : 2608,
+		"place_id" : 978,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "GS25 송도스마트밸리점",
+		"id" : 2609,
+		"place_id" : 979,
+		"payment" : "apple_visa",
+		"writer" : "제제라니까"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 2610,
+		"place_id" : 980,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 2611,
+		"place_id" : 980,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 2612,
+		"place_id" : 981,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 2613,
+		"place_id" : 981,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 2614,
+		"place_id" : 982,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 2615,
+		"place_id" : 982,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 2616,
+		"place_id" : 983,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 2617,
+		"place_id" : 983,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 2618,
+		"place_id" : 984,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 2619,
+		"place_id" : 984,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "서울역",
+		"id" : 2620,
+		"place_id" : 986,
+		"payment" : "apple_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "영등포역",
+		"id" : 2621,
+		"place_id" : 987,
+		"payment" : "apple_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "안양역",
+		"id" : 2622,
+		"place_id" : 988,
+		"payment" : "apple_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 2623,
+		"place_id" : 989,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 2624,
+		"place_id" : 989,
+		"payment" : "apple_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 2625,
+		"place_id" : 989,
+		"payment" : "apple_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 2626,
+		"place_id" : 989,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 2627,
+		"place_id" : 990,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 2628,
+		"place_id" : 990,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 2629,
+		"place_id" : 990,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 2630,
+		"place_id" : 990,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 2631,
+		"place_id" : 990,
+		"payment" : "apple_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "수원역",
+		"id" : 2632,
+		"place_id" : 991,
+		"payment" : "apple_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 2633,
+		"place_id" : 992,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 2634,
+		"place_id" : 992,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 2635,
+		"place_id" : 992,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 2636,
+		"place_id" : 992,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "롯데리아 대구장기점",
+		"id" : 2637,
+		"place_id" : 993,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 장기휴포레점",
+		"id" : 2638,
+		"place_id" : 994,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서감삼점",
+		"id" : 2639,
+		"place_id" : 995,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서하늘채점",
+		"id" : 2640,
+		"place_id" : 996,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 우방드림시티점",
+		"id" : 2641,
+		"place_id" : 997,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 우방드림시티점",
+		"id" : 2642,
+		"place_id" : 997,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 우방드림시티점",
+		"id" : 2643,
+		"place_id" : 997,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게뜨 대우월드마크점",
+		"id" : 2644,
+		"place_id" : 998,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 원주유보라점",
+		"id" : 2645,
+		"place_id" : 999,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 원주유보라점",
+		"id" : 2646,
+		"place_id" : 999,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 춘천캐슬점",
+		"id" : 2647,
+		"place_id" : 1000,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 춘천캐슬점",
+		"id" : 2648,
+		"place_id" : 1000,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 후평본점",
+		"id" : 2649,
+		"place_id" : 1001,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 후평본점",
+		"id" : 2650,
+		"place_id" : 1001,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 한화리조트설악점",
+		"id" : 2651,
+		"place_id" : 1002,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 한화리조트설악점",
+		"id" : 2652,
+		"place_id" : 1002,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 포항오천점",
+		"id" : 2672,
+		"place_id" : 1017,
+		"payment" : "apple_master",
+		"writer" : "제주감귤"
+	},
+	{
+		"place" : "CU 왕십리민자역사1호점",
+		"id" : 2673,
+		"place_id" : 1018,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 한양대사랑점",
+		"id" : 2674,
+		"place_id" : 975,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 한양대사랑점",
+		"id" : 2675,
+		"place_id" : 975,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "홈플러스스페셜 동대문점",
+		"id" : 2676,
+		"place_id" : 1019,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "세븐일레븐 왕십리이스타빌점",
+		"id" : 2677,
+		"place_id" : 1020,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 하왕십리점",
+		"id" : 2678,
+		"place_id" : 1021,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 하왕십리점",
+		"id" : 2679,
+		"place_id" : 1021,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "미니스톱 왕십리센트럴점",
+		"id" : 2680,
+		"place_id" : 974,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 왕십리민자역사1호점",
+		"id" : 2681,
+		"place_id" : 1018,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 안목해오름점",
+		"id" : 2682,
+		"place_id" : 1022,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 2683,
+		"place_id" : 1023,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 2684,
+		"place_id" : 1023,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 2685,
+		"place_id" : 1023,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 2686,
+		"place_id" : 1023,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 2687,
+		"place_id" : 1024,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 2688,
+		"place_id" : 1024,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 2689,
+		"place_id" : 1024,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 2690,
+		"place_id" : 1024,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 2691,
+		"place_id" : 1024,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 2692,
+		"place_id" : 1025,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 2693,
+		"place_id" : 1025,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 2694,
+		"place_id" : 1025,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 2695,
+		"place_id" : 1025,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 2696,
+		"place_id" : 1025,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 2697,
+		"place_id" : 1026,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 2698,
+		"place_id" : 1026,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 2699,
+		"place_id" : 1026,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 2700,
+		"place_id" : 1026,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 2701,
+		"place_id" : 1026,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 2702,
+		"place_id" : 1027,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 2703,
+		"place_id" : 1027,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 2704,
+		"place_id" : 1027,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 2705,
+		"place_id" : 1027,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 2706,
+		"place_id" : 1028,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 2707,
+		"place_id" : 1028,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 2708,
+		"place_id" : 1028,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 2709,
+		"place_id" : 1028,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 2710,
+		"place_id" : 1028,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 2711,
+		"place_id" : 1029,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 2712,
+		"place_id" : 1029,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 2713,
+		"place_id" : 1029,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 2714,
+		"place_id" : 1029,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 2715,
+		"place_id" : 1029,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 평택신장점",
+		"id" : 2716,
+		"place_id" : 1030,
+		"payment" : "apple_visa",
+		"writer" : "엘"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 2717,
+		"place_id" : 856,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 2718,
+		"place_id" : 856,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 2719,
+		"place_id" : 856,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 2720,
+		"place_id" : 856,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 2721,
+		"place_id" : 856,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 2722,
+		"place_id" : 980,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 2723,
+		"place_id" : 980,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 2724,
+		"place_id" : 980,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 2725,
+		"place_id" : 980,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 2726,
+		"place_id" : 980,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 2727,
+		"place_id" : 982,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 2728,
+		"place_id" : 982,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 2729,
+		"place_id" : 982,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 2730,
+		"place_id" : 982,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 2731,
+		"place_id" : 982,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 2732,
+		"place_id" : 981,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 2733,
+		"place_id" : 981,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 2734,
+		"place_id" : 981,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 2735,
+		"place_id" : 981,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 2736,
+		"place_id" : 981,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 2737,
+		"place_id" : 983,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 2738,
+		"place_id" : 983,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 2739,
+		"place_id" : 983,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 2740,
+		"place_id" : 983,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 2741,
+		"place_id" : 983,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 대전점",
+		"id" : 2742,
+		"place_id" : 1032,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 대전점",
+		"id" : 2743,
+		"place_id" : 1032,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 대전점",
+		"id" : 2744,
+		"place_id" : 1032,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 대전점",
+		"id" : 2745,
+		"place_id" : 1032,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 대전점",
+		"id" : 2746,
+		"place_id" : 1032,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 해운대점",
+		"id" : 2747,
+		"place_id" : 1033,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 해운대점",
+		"id" : 2748,
+		"place_id" : 1033,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 해운대점",
+		"id" : 2749,
+		"place_id" : 1033,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 해운대점",
+		"id" : 2750,
+		"place_id" : 1033,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 해운대점",
+		"id" : 2751,
+		"place_id" : 1033,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 2752,
+		"place_id" : 984,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 2753,
+		"place_id" : 984,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 2754,
+		"place_id" : 984,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 2755,
+		"place_id" : 984,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 2756,
+		"place_id" : 984,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 왕십리역사점",
+		"id" : 2757,
+		"place_id" : 1037,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "롯데리아 왕십리역사점",
+		"id" : 2758,
+		"place_id" : 1037,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "미니스톱 동대문패션타운점",
+		"id" : 2759,
+		"place_id" : 1038,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "세븐일레븐 왕십리센트라스점",
+		"id" : 2760,
+		"place_id" : 1039,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 엔터식스한양대점",
+		"id" : 2761,
+		"place_id" : 1040,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 왕십리센트라스점",
+		"id" : 2762,
+		"place_id" : 970,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "스토리웨이 선릉역점(하행)",
+		"id" : 2763,
+		"place_id" : 1041,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 우현테라스점",
+		"id" : 2794,
+		"place_id" : 1058,
+		"payment" : "apple_master",
+		"writer" : "혁"
+	},
+	{
+		"place" : "GS25 포항우창점",
+		"id" : 2795,
+		"place_id" : 1059,
+		"payment" : "apple_master",
+		"writer" : "혁"
+	},
+	{
+		"place" : "CU 포항우현테라스점",
+		"id" : 2796,
+		"place_id" : 1060,
+		"payment" : "apple_visa",
+		"writer" : "혁"
+	},
+	{
+		"place" : "CU 포항우현테라스점",
+		"id" : 2797,
+		"place_id" : 1060,
+		"payment" : "apple_visa",
+		"writer" : "혁"
+	},
+	{
+		"place" : "GS25 포항우창점",
+		"id" : 2798,
+		"place_id" : 1059,
+		"payment" : "apple_visa",
+		"writer" : "혁"
+	},
+	{
+		"place" : "GS25 포항우창점",
+		"id" : 2799,
+		"place_id" : 1059,
+		"payment" : "apple_visa",
+		"writer" : "혁"
+	},
+	{
+		"place" : "서울대병원",
+		"id" : 2800,
+		"place_id" : 1062,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "서울대병원",
+		"id" : 2801,
+		"place_id" : 1062,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "서울대병원",
+		"id" : 2802,
+		"place_id" : 1062,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "분당차병원",
+		"id" : 2803,
+		"place_id" : 1063,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "분당차병원",
+		"id" : 2804,
+		"place_id" : 1063,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 영남이공대점",
+		"id" : 2805,
+		"place_id" : 1064,
+		"payment" : "apple_visa",
+		"writer" : "제주감귤"
+	},
+	{
+		"place" : "GS25 영남이공대기숙사점",
+		"id" : 2806,
+		"place_id" : 1065,
+		"payment" : "apple_visa",
+		"writer" : "제주감귤"
+	},
+	{
+		"place" : "스토리웨이 야탑맞이종합편의점",
+		"id" : 2807,
+		"place_id" : 1067,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스토리웨이 야탑맞이종합편의점",
+		"id" : 2808,
+		"place_id" : 1067,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스토리웨이 야탑맞이종합편의점",
+		"id" : 2809,
+		"place_id" : 1067,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스토리웨이 야탑맞이종합편의점",
+		"id" : 2810,
+		"place_id" : 1067,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스토리웨이 야탑맞이종합편의점",
+		"id" : 2811,
+		"place_id" : 1067,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "교보문고 광화문점",
+		"id" : 2812,
+		"place_id" : 1068,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "교보문고 동대문바로드림센터",
+		"id" : 2813,
+		"place_id" : 1069,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "투썸플레이스 대구죽전하늘체점",
+		"id" : 2814,
+		"place_id" : 1071,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구월성효성점",
+		"id" : 2815,
+		"place_id" : 1072,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구월성효성점",
+		"id" : 2816,
+		"place_id" : 1072,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25월성센트로점",
+		"id" : 2817,
+		"place_id" : 1073,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25월성센트로점",
+		"id" : 2818,
+		"place_id" : 1073,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 월성주공점",
+		"id" : 2819,
+		"place_id" : 1074,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 성서하나로마트",
+		"id" : 2820,
+		"place_id" : 1076,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 2821,
+		"place_id" : 1077,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 2822,
+		"place_id" : 1077,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 2823,
+		"place_id" : 1077,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 2824,
+		"place_id" : 1077,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 성서점",
+		"id" : 2825,
+		"place_id" : 1078,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 성서점",
+		"id" : 2826,
+		"place_id" : 1078,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서장기사랑점",
+		"id" : 2827,
+		"place_id" : 1079,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서장기사랑점",
+		"id" : 2828,
+		"place_id" : 1079,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "공차 대구월성점",
+		"id" : 2829,
+		"place_id" : 1080,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "공차 대구월성점",
+		"id" : 2830,
+		"place_id" : 1080,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구신월성푸르지오점",
+		"id" : 2831,
+		"place_id" : 1081,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구신월성푸르지오점",
+		"id" : 2832,
+		"place_id" : 1081,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 2833,
+		"place_id" : 1082,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 2834,
+		"place_id" : 1082,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 2835,
+		"place_id" : 1082,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 대구감삼점",
+		"id" : 2836,
+		"place_id" : 1083,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 2837,
+		"place_id" : 1084,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 2838,
+		"place_id" : 1084,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 2839,
+		"place_id" : 1084,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 두류역점",
+		"id" : 2840,
+		"place_id" : 1085,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일래븐 대구광장타운점",
+		"id" : 2841,
+		"place_id" : 1086,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일래븐 대구광장타운점",
+		"id" : 2842,
+		"place_id" : 1086,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일래븐 대구두류역사점",
+		"id" : 2843,
+		"place_id" : 1087,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일래븐 대구두류역사점",
+		"id" : 2844,
+		"place_id" : 1087,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당대로점",
+		"id" : 2845,
+		"place_id" : 1088,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당대로점",
+		"id" : 2846,
+		"place_id" : 1088,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 내당점",
+		"id" : 2847,
+		"place_id" : 1090,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 내당점",
+		"id" : 2848,
+		"place_id" : 1090,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "롯데리아 홈플러스내당점",
+		"id" : 2849,
+		"place_id" : 1091,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "롯데리아 홈플러스내당점",
+		"id" : 2850,
+		"place_id" : 1091,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "공차 홈플러스성서점",
+		"id" : 2851,
+		"place_id" : 1092,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "공차 홈플러스성서점",
+		"id" : 2852,
+		"place_id" : 1092,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "다이소 홈플러스성서점",
+		"id" : 2853,
+		"place_id" : 1093,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "다이소 홈플러스성서점",
+		"id" : 2854,
+		"place_id" : 1093,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "아디다스 홈플러스성서점",
+		"id" : 2855,
+		"place_id" : 1094,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "아디다스 홈플러스성서점",
+		"id" : 2856,
+		"place_id" : 1094,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 대구이곡역점",
+		"id" : 2857,
+		"place_id" : 1095,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 대구이곡역점",
+		"id" : 2858,
+		"place_id" : 1095,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 대구이곡역점",
+		"id" : 2859,
+		"place_id" : 1095,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 대구반월당점",
+		"id" : 2860,
+		"place_id" : 1096,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 삼덕대로점",
+		"id" : 2861,
+		"place_id" : 1097,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 삼덕대로점",
+		"id" : 2862,
+		"place_id" : 1097,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 삼덕대로점",
+		"id" : 2863,
+		"place_id" : 1097,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 중구통신거리점",
+		"id" : 2864,
+		"place_id" : 1098,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 중구통신거리점",
+		"id" : 2865,
+		"place_id" : 1098,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 중구통신거리점",
+		"id" : 2866,
+		"place_id" : 1098,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구현대점",
+		"id" : 2867,
+		"place_id" : 1099,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구현대점",
+		"id" : 2868,
+		"place_id" : 1099,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로2호점",
+		"id" : 2869,
+		"place_id" : 1100,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로2호점",
+		"id" : 2870,
+		"place_id" : 1100,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로2호점",
+		"id" : 2871,
+		"place_id" : 1100,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로교보점",
+		"id" : 2872,
+		"place_id" : 1101,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로교보점",
+		"id" : 2873,
+		"place_id" : 1101,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로교보점",
+		"id" : 2874,
+		"place_id" : 1101,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구 본리스타점",
+		"id" : 2875,
+		"place_id" : 1102,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구 본리스타점",
+		"id" : 2876,
+		"place_id" : 1102,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "스토리웨이 서대구맞이방 편의점",
+		"id" : 2877,
+		"place_id" : 1104,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 2878,
+		"place_id" : 1105,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 2879,
+		"place_id" : 1105,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 2880,
+		"place_id" : 1105,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 2881,
+		"place_id" : 1105,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 2882,
+		"place_id" : 1105,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 태안진흥점",
+		"id" : 2883,
+		"place_id" : 1106,
+		"payment" : "apple_visa",
+		"writer" : "최염분"
+	},
+	{
+		"place" : "CU 태안동문점",
+		"id" : 2884,
+		"place_id" : 1107,
+		"payment" : "apple_visa",
+		"writer" : "최염분"
+	},
+	{
+		"place" : "CU태안읍내점",
+		"id" : 2885,
+		"place_id" : 1108,
+		"payment" : "apple_visa",
+		"writer" : "최염분"
+	},
+	{
+		"place" : "세븐일레븐 원주일호점",
+		"id" : 2886,
+		"place_id" : 1109,
+		"payment" : "apple_visa",
+		"writer" : "김푸름"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 2894,
+		"place_id" : 1113,
+		"payment" : "apple_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 2895,
+		"place_id" : 1113,
+		"payment" : "apple_visa",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 2896,
+		"place_id" : 1113,
+		"payment" : "apple_visa",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 2897,
+		"place_id" : 1113,
+		"payment" : "apple_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 2898,
+		"place_id" : 1113,
+		"payment" : "apple_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 2899,
+		"place_id" : 1113,
+		"payment" : "apple_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 2900,
+		"place_id" : 1113,
+		"payment" : "apple_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "파리바게뜨 왕십리텐즈힐점",
+		"id" : 2901,
+		"place_id" : 1117,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "맥도날드 한양대점",
+		"id" : 2902,
+		"place_id" : 1118,
+		"payment" : "apple_master",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "GS25 한양중앙점",
+		"id" : 2903,
+		"place_id" : 1119,
+		"payment" : "apple_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "세븐일레븐 산청신안원지점",
+		"id" : 2904,
+		"place_id" : 1120,
+		"payment" : "apple_visa",
+		"writer" : "juneh"
+	},
+	{
+		"place" : "CU 의성북원점",
+		"id" : 2905,
+		"place_id" : 1121,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 의성북원점",
+		"id" : 2906,
+		"place_id" : 1121,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 의성북원점",
+		"id" : 2907,
+		"place_id" : 1121,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "투썸플레이스 대구7호광장점",
+		"id" : 2908,
+		"place_id" : 1122,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당점",
+		"id" : 2909,
+		"place_id" : 1123,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당점",
+		"id" : 2910,
+		"place_id" : 1123,
+		"payment" : "apple_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 침산롯데점",
+		"id" : 2911,
+		"place_id" : 1124,
+		"payment" : "apple_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 2912,
+		"place_id" : 859,
+		"payment" : "apple_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "뚜레쥬르 남한산성역점",
+		"id" : 2913,
+		"place_id" : 1125,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "뚜레쥬르 남한산성역점",
+		"id" : 2914,
+		"place_id" : 1125,
+		"payment" : "apple_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 청주개신주공점",
+		"id" : 2915,
+		"place_id" : 1127,
+		"payment" : "apple_visa",
+		"writer" : "윗층남"
+	},
+	{
+		"place" : "CU 청주개신주공점",
+		"id" : 2916,
+		"place_id" : 1127,
+		"payment" : "apple_visa",
+		"writer" : "윗층남"
+	},
+	{
+		"place" : "빽다방 도촌",
+		"id" : 8,
+		"place_id" : 27,
+		"payment" : "conless_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "맥도날드 중계점",
+		"id" : 9,
+		"place_id" : 32,
+		"payment" : "conless_master",
+		"writer" : "서동욱"
+	},
+	{
+		"place" : "cu 수원 아이파크점",
+		"id" : 10,
+		"place_id" : 36,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "세븐일레븐 수원송정점",
+		"id" : 11,
+		"place_id" : 37,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "cu 수원파장중앙점",
+		"id" : 12,
+		"place_id" : 38,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "cu 청솔번영점",
+		"id" : 13,
+		"place_id" : 39,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㅇㄹ"
+	},
+	{
+		"place" : "cu 파장사거리점",
+		"id" : 14,
+		"place_id" : 40,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "iga마트 수원파장점",
+		"id" : 15,
+		"place_id" : 41,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "맥도날드 북수원dt점",
+		"id" : 16,
+		"place_id" : 42,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "홈플러스 북수원점",
+		"id" : 17,
+		"place_id" : 43,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "cu 수원만석점",
+		"id" : 18,
+		"place_id" : 44,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "cu 만석공원점",
+		"id" : 19,
+		"place_id" : 45,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "gs25 만석공원점",
+		"id" : 20,
+		"place_id" : 46,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "롯데리아 망포역점",
+		"id" : 21,
+		"place_id" : 47,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "cu 망포역점",
+		"id" : 22,
+		"place_id" : 48,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "gs25 기흥가나점",
+		"id" : 23,
+		"place_id" : 49,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "gs25 기흥농서점",
+		"id" : 24,
+		"place_id" : 50,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "세븐일레븐 기흥반도체주유소점",
+		"id" : 25,
+		"place_id" : 51,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "cu 여주대캠퍼스타운점",
+		"id" : 26,
+		"place_id" : 52,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "gs25 여주강천점",
+		"id" : 27,
+		"place_id" : 53,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "세븐일레븐 수원공구상가점",
+		"id" : 28,
+		"place_id" : 54,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "세븐일레븐 대부도점",
+		"id" : 29,
+		"place_id" : 55,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "cu 파장원투점",
+		"id" : 30,
+		"place_id" : 56,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "gs25 장안그린점",
+		"id" : 31,
+		"place_id" : 57,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "gs25 수원장안점",
+		"id" : 32,
+		"place_id" : 58,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "GS25 오남상일점",
+		"id" : 43,
+		"place_id" : 762,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남상일점",
+		"id" : 44,
+		"place_id" : 762,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남대한점",
+		"id" : 45,
+		"place_id" : 763,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남대한점",
+		"id" : 46,
+		"place_id" : 763,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 오남신일점",
+		"id" : 47,
+		"place_id" : 764,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 오남신일점",
+		"id" : 48,
+		"place_id" : 764,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 오남신일점",
+		"id" : 49,
+		"place_id" : 764,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 진건송능점",
+		"id" : 50,
+		"place_id" : 765,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 진건송능점",
+		"id" : 51,
+		"place_id" : 765,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 진건송능점",
+		"id" : 52,
+		"place_id" : 765,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남동명점",
+		"id" : 53,
+		"place_id" : 766,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남동명점",
+		"id" : 54,
+		"place_id" : 766,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 언더랜드점 (오거스팩토리)",
+		"id" : 55,
+		"place_id" : 767,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 언더랜드점 (오거스팩토리)",
+		"id" : 56,
+		"place_id" : 767,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "키자니아 서울점 (일부 단말 불가)",
+		"id" : 57,
+		"place_id" : 768,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 진접DT점",
+		"id" : 58,
+		"place_id" : 769,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 진접DT점",
+		"id" : 59,
+		"place_id" : 769,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 진접DT점",
+		"id" : 60,
+		"place_id" : 769,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남호수점",
+		"id" : 61,
+		"place_id" : 770,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남호수점",
+		"id" : 62,
+		"place_id" : 770,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 남양주본점",
+		"id" : 63,
+		"place_id" : 771,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 남양주본점",
+		"id" : 64,
+		"place_id" : 771,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 잠실역점",
+		"id" : 65,
+		"place_id" : 772,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 잠실역점",
+		"id" : 66,
+		"place_id" : 772,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 잠실역점",
+		"id" : 67,
+		"place_id" : 772,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 잠실롯데월드몰B1점",
+		"id" : 68,
+		"place_id" : 773,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 잠실롯데월드몰B1점",
+		"id" : 69,
+		"place_id" : 773,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 월드점",
+		"id" : 70,
+		"place_id" : 774,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 월드점",
+		"id" : 71,
+		"place_id" : 774,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 월드점",
+		"id" : 72,
+		"place_id" : 774,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "쥬스솔루션 여의도IFC몰점",
+		"id" : 73,
+		"place_id" : 775,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "투썸플레이스 남양주오남점 (해외비자 아예불가)",
+		"id" : 74,
+		"place_id" : 776,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "투썸플레이스 남양주오남점 (해외비자 아예불가)",
+		"id" : 75,
+		"place_id" : 776,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "투썸플레이스 남양주오남점 (해외비자 아예불가)",
+		"id" : 76,
+		"place_id" : 776,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "참약사 진접우리약국",
+		"id" : 77,
+		"place_id" : 777,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "참약사 진접우리약국",
+		"id" : 78,
+		"place_id" : 777,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "공차 하나로마트진접점 (유인계산대만)",
+		"id" : 79,
+		"place_id" : 778,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "공차 하나로마트진접점 (유인계산대만)",
+		"id" : 80,
+		"place_id" : 778,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "나이스가이 영통 벽적골점",
+		"id" : 81,
+		"place_id" : 780,
+		"payment" : "conless_visa",
+		"writer" : "애플페이좀들여오지\/iPhone12"
+	},
+	{
+		"place" : "강릉해변메밀막국수",
+		"id" : 82,
+		"place_id" : 781,
+		"payment" : "conless_visa",
+		"writer" : "애플페이좀들여오지\/iPhone12"
+	},
+	{
+		"place" : "빽다방 산성역점",
+		"id" : 83,
+		"place_id" : 60,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 야탑점",
+		"id" : 84,
+		"place_id" : 782,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐 일레븐  성남 산성점",
+		"id" : 85,
+		"place_id" : 783,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 양지사랑점",
+		"id" : 86,
+		"place_id" : 784,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지2호점",
+		"id" : 87,
+		"place_id" : 785,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지점",
+		"id" : 88,
+		"place_id" : 786,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행공원점",
+		"id" : 89,
+		"place_id" : 787,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남을지산성점",
+		"id" : 90,
+		"place_id" : 788,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행현대점",
+		"id" : 91,
+		"place_id" : 789,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남희망점",
+		"id" : 92,
+		"place_id" : 790,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행번영점",
+		"id" : 93,
+		"place_id" : 791,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남감나무골점",
+		"id" : 94,
+		"place_id" : 792,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행길목점",
+		"id" : 95,
+		"place_id" : 793,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행주공점",
+		"id" : 96,
+		"place_id" : 794,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광본점",
+		"id" : 97,
+		"place_id" : 795,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 금광빌리지점",
+		"id" : 98,
+		"place_id" : 796,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남단대역점",
+		"id" : 99,
+		"place_id" : 797,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광단대점",
+		"id" : 100,
+		"place_id" : 798,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원점",
+		"id" : 101,
+		"place_id" : 799,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원금상점",
+		"id" : 102,
+		"place_id" : 800,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원박석로점",
+		"id" : 103,
+		"place_id" : 801,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남제일점",
+		"id" : 104,
+		"place_id" : 802,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평성대점",
+		"id" : 105,
+		"place_id" : 804,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원본점",
+		"id" : 106,
+		"place_id" : 805,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남소울트리점",
+		"id" : 107,
+		"place_id" : 806,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례1호점",
+		"id" : 108,
+		"place_id" : 807,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남인더스점",
+		"id" : 109,
+		"place_id" : 808,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반석정든점",
+		"id" : 110,
+		"place_id" : 803,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평금빛점",
+		"id" : 111,
+		"place_id" : 809,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남산성번영점",
+		"id" : 112,
+		"place_id" : 810,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례2호점",
+		"id" : 113,
+		"place_id" : 811,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평이마트점",
+		"id" : 114,
+		"place_id" : 812,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남라이온스밸리점",
+		"id" : 115,
+		"place_id" : 813,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 하남엠코점",
+		"id" : 116,
+		"place_id" : 814,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원중앙점",
+		"id" : 117,
+		"place_id" : 815,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례참좋은점",
+		"id" : 118,
+		"place_id" : 816,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례중앙타워점",
+		"id" : 119,
+		"place_id" : 817,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원본점",
+		"id" : 120,
+		"place_id" : 818,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남광장점",
+		"id" : 121,
+		"place_id" : 819,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진중앙점",
+		"id" : 122,
+		"place_id" : 820,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 서울복합물류단지점",
+		"id" : 123,
+		"place_id" : 821,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙시장점",
+		"id" : 124,
+		"place_id" : 822,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정중앙점",
+		"id" : 125,
+		"place_id" : 823,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 태평마리골드점",
+		"id" : 126,
+		"place_id" : 824,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남대원중앙점",
+		"id" : 127,
+		"place_id" : 825,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남크란츠빌점",
+		"id" : 128,
+		"place_id" : 826,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정국제점",
+		"id" : 129,
+		"place_id" : 827,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수정점",
+		"id" : 130,
+		"place_id" : 828,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남공단본점",
+		"id" : 131,
+		"place_id" : 829,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남오거리점",
+		"id" : 132,
+		"place_id" : 830,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙점",
+		"id" : 133,
+		"place_id" : 831,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남동서울대점",
+		"id" : 134,
+		"place_id" : 832,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반포산업점",
+		"id" : 135,
+		"place_id" : 833,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 장지대진점",
+		"id" : 136,
+		"place_id" : 834,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남어울림점",
+		"id" : 137,
+		"place_id" : 835,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중원빌리지점",
+		"id" : 138,
+		"place_id" : 836,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원일성점",
+		"id" : 139,
+		"place_id" : 837,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대3호점",
+		"id" : 140,
+		"place_id" : 838,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평중파점",
+		"id" : 141,
+		"place_id" : 839,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원별빛점",
+		"id" : 142,
+		"place_id" : 840,
+		"payment" : "conless_visa",
+		"writer" : "DY"
+	},
+	{
+		"place" : "세븐일레븐 성남시그마밸리점",
+		"id" : 143,
+		"place_id" : 841,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진본점",
+		"id" : 144,
+		"place_id" : 842,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남가천대역점",
+		"id" : 145,
+		"place_id" : 843,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대1호점",
+		"id" : 146,
+		"place_id" : 844,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란중앙점",
+		"id" : 147,
+		"place_id" : 845,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원스타점",
+		"id" : 148,
+		"place_id" : 846,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 송파장지점",
+		"id" : 149,
+		"place_id" : 847,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남메디컬점",
+		"id" : 150,
+		"place_id" : 848,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평점",
+		"id" : 151,
+		"place_id" : 849,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남운동장점",
+		"id" : 152,
+		"place_id" : 850,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란수진점",
+		"id" : 153,
+		"place_id" : 851,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 남한산성입구역점",
+		"id" : 154,
+		"place_id" : 852,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 단대오거리역점",
+		"id" : 155,
+		"place_id" : 853,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 남위례역점",
+		"id" : 156,
+		"place_id" : 854,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "우체국 성남점",
+		"id" : 157,
+		"place_id" : 855,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 158,
+		"place_id" : 856,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 159,
+		"place_id" : 857,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 160,
+		"place_id" : 857,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 161,
+		"place_id" : 858,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 162,
+		"place_id" : 858,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 163,
+		"place_id" : 858,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 164,
+		"place_id" : 859,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 165,
+		"place_id" : 859,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 166,
+		"place_id" : 859,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 167,
+		"place_id" : 860,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 168,
+		"place_id" : 860,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 169,
+		"place_id" : 860,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금동우편취급국",
+		"id" : 170,
+		"place_id" : 861,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남태평2동우편취급국",
+		"id" : 171,
+		"place_id" : 862,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금광동우체국",
+		"id" : 172,
+		"place_id" : 863,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남단대동우체국",
+		"id" : 173,
+		"place_id" : 864,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 174,
+		"place_id" : 865,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 175,
+		"place_id" : 865,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 잠실점",
+		"id" : 176,
+		"place_id" : 866,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 강동점",
+		"id" : 177,
+		"place_id" : 867,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 경기하남점",
+		"id" : 178,
+		"place_id" : 868,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 분당오리점",
+		"id" : 179,
+		"place_id" : 869,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 180,
+		"place_id" : 870,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 181,
+		"place_id" : 870,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 182,
+		"place_id" : 870,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 183,
+		"place_id" : 871,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 184,
+		"place_id" : 871,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 185,
+		"place_id" : 871,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 186,
+		"place_id" : 872,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 187,
+		"place_id" : 872,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 188,
+		"place_id" : 872,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 189,
+		"place_id" : 873,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 190,
+		"place_id" : 873,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 191,
+		"place_id" : 873,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 강릉교동점",
+		"id" : 193,
+		"place_id" : 875,
+		"payment" : "conless_master",
+		"writer" : "그녀"
+	},
+	{
+		"place" : "CU 천곡코아루점",
+		"id" : 194,
+		"place_id" : 877,
+		"payment" : "conless_visa",
+		"writer" : "애플페이 드루와"
+	},
+	{
+		"place" : "CU 천곡오션점",
+		"id" : 195,
+		"place_id" : 878,
+		"payment" : "conless_visa",
+		"writer" : "애플페이 드루와"
+	},
+	{
+		"place" : "홈플러스 울산북구점",
+		"id" : 196,
+		"place_id" : 879,
+		"payment" : "conless_visa",
+		"writer" : "애플페이 드루와"
+	},
+	{
+		"place" : "CU 달천아이파크점",
+		"id" : 197,
+		"place_id" : 880,
+		"payment" : "conless_visa",
+		"writer" : "애플페이 드루와"
+	},
+	{
+		"place" : "GS25 쌍용아진점",
+		"id" : 198,
+		"place_id" : 881,
+		"payment" : "conless_visa",
+		"writer" : "애플페이 드루와"
+	},
+	{
+		"place" : "세븐일레븐 울산아진사랑점",
+		"id" : 199,
+		"place_id" : 882,
+		"payment" : "conless_visa",
+		"writer" : "애플페이 드루와"
+	},
+	{
+		"place" : "cu 센텀호텔점",
+		"id" : 200,
+		"place_id" : 884,
+		"payment" : "conless_visa",
+		"writer" : "애플페이 드루와"
+	},
+	{
+		"place" : "CU 교동센타점",
+		"id" : 201,
+		"place_id" : 886,
+		"payment" : "conless_visa",
+		"writer" : "그녀"
+	},
+	{
+		"place" : "gs25 예천풍양점",
+		"id" : 202,
+		"place_id" : 887,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "세븐일레븐 중계은행사거리점",
+		"id" : 203,
+		"place_id" : 888,
+		"payment" : "conless_visa",
+		"writer" : "서동"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 204,
+		"place_id" : 889,
+		"payment" : "conless_visa",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 205,
+		"place_id" : 889,
+		"payment" : "conless_master",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 206,
+		"place_id" : 889,
+		"payment" : "conless_amex",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 207,
+		"place_id" : 889,
+		"payment" : "conless_union",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 208,
+		"place_id" : 889,
+		"payment" : "conless_jcb",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 209,
+		"place_id" : 890,
+		"payment" : "conless_visa",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 210,
+		"place_id" : 890,
+		"payment" : "conless_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 211,
+		"place_id" : 890,
+		"payment" : "conless_amex",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 212,
+		"place_id" : 890,
+		"payment" : "conless_union",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 213,
+		"place_id" : 890,
+		"payment" : "conless_jcb",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "대현환경",
+		"id" : 214,
+		"place_id" : 891,
+		"payment" : "conless_visa",
+		"writer" : "대현"
+	},
+	{
+		"place" : "가리봉동",
+		"id" : 215,
+		"place_id" : 892,
+		"payment" : "conless_visa",
+		"writer" : "9급"
+	},
+	{
+		"place" : "가리봉동",
+		"id" : 216,
+		"place_id" : 892,
+		"payment" : "conless_master",
+		"writer" : "9급"
+	},
+	{
+		"place" : "태경소",
+		"id" : 217,
+		"place_id" : 893,
+		"payment" : "conless_visa",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 218,
+		"place_id" : 893,
+		"payment" : "conless_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 219,
+		"place_id" : 893,
+		"payment" : "conless_amex",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 220,
+		"place_id" : 893,
+		"payment" : "conless_union",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 221,
+		"place_id" : 893,
+		"payment" : "conless_jcb",
+		"writer" : "19"
+	},
+	{
+		"place" : "라발스",
+		"id" : 222,
+		"place_id" : 894,
+		"payment" : "conless_visa",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 223,
+		"place_id" : 894,
+		"payment" : "conless_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 224,
+		"place_id" : 894,
+		"payment" : "conless_amex",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 225,
+		"place_id" : 894,
+		"payment" : "conless_union",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 226,
+		"place_id" : 894,
+		"payment" : "conless_jcb",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "맥도날드 대구본리DT점",
+		"id" : 227,
+		"place_id" : 895,
+		"payment" : "conless_master",
+		"writer" : "Sexynos"
+	},
+	{
+		"place" : "CU 김제원평점",
+		"id" : 228,
+		"place_id" : 896,
+		"payment" : "conless_visa",
+		"writer" : "최혁준"
+	},
+	{
+		"place" : "CU 김제원평점",
+		"id" : 229,
+		"place_id" : 896,
+		"payment" : "conless_master",
+		"writer" : "최혁준"
+	},
+	{
+		"place" : "세븐일레븐 김제원평점",
+		"id" : 230,
+		"place_id" : 897,
+		"payment" : "conless_visa",
+		"writer" : "혁준이"
+	},
+	{
+		"place" : "세븐일레븐 김제원평점",
+		"id" : 231,
+		"place_id" : 897,
+		"payment" : "conless_master",
+		"writer" : "혁준이"
+	},
+	{
+		"place" : "씨유 삼성백암",
+		"id" : 232,
+		"place_id" : 898,
+		"payment" : "conless_master",
+		"writer" : "ㅂ"
+	},
+	{
+		"place" : "세븐일레븐 김제원평점",
+		"id" : 233,
+		"place_id" : 899,
+		"payment" : "conless_visa",
+		"writer" : "혁준이"
+	},
+	{
+		"place" : "GS25 뉴금산사IC점",
+		"id" : 234,
+		"place_id" : 900,
+		"payment" : "conless_visa",
+		"writer" : "혁준이"
+	},
+	{
+		"place" : "GS25 대야미역점",
+		"id" : 235,
+		"place_id" : 901,
+		"payment" : "conless_visa",
+		"writer" : "13i"
+	},
+	{
+		"place" : "스타벅스 해운대역점",
+		"id" : 236,
+		"place_id" : 902,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "폴바셋 북수원 ic",
+		"id" : 237,
+		"place_id" : 903,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "스타벅스 압구정역점",
+		"id" : 238,
+		"place_id" : 906,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 가로수길점",
+		"id" : 239,
+		"place_id" : 907,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 고속터미널 점, 스타벅스",
+		"id" : 240,
+		"place_id" : 908,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 대전송촌점",
+		"id" : 241,
+		"place_id" : 937,
+		"payment" : "conless_visa",
+		"writer" : "라이프"
+	},
+	{
+		"place" : "GS25 선비마을점",
+		"id" : 242,
+		"place_id" : 938,
+		"payment" : "conless_visa",
+		"writer" : "라이프"
+	},
+	{
+		"place" : "GS25 송촌고점",
+		"id" : 243,
+		"place_id" : 939,
+		"payment" : "conless_visa",
+		"writer" : "라이프"
+	},
+	{
+		"place" : "GS25 대전송촌점",
+		"id" : 244,
+		"place_id" : 940,
+		"payment" : "conless_visa",
+		"writer" : "라이프"
+	},
+	{
+		"place" : "GS25 송촌스타점",
+		"id" : 245,
+		"place_id" : 941,
+		"payment" : "conless_visa",
+		"writer" : "라이프"
+	},
+	{
+		"place" : "GS25 복합터미널1호점",
+		"id" : 246,
+		"place_id" : 942,
+		"payment" : "conless_visa",
+		"writer" : "라이프"
+	},
+	{
+		"place" : "홈플러스 익스프레스 송촌점",
+		"id" : 247,
+		"place_id" : 943,
+		"payment" : "conless_visa",
+		"writer" : "라이프"
+	},
+	{
+		"place" : "CU옥천 양수점",
+		"id" : 248,
+		"place_id" : 944,
+		"payment" : "conless_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "CU 옥천지엘점",
+		"id" : 249,
+		"place_id" : 946,
+		"payment" : "conless_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "GS25 양수점",
+		"id" : 250,
+		"place_id" : 947,
+		"payment" : "conless_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "맥도날드 산본이마트점",
+		"id" : 251,
+		"place_id" : 948,
+		"payment" : "conless_master",
+		"writer" : "13i"
+	},
+	{
+		"place" : "GS25 여의도역점",
+		"id" : 252,
+		"place_id" : 949,
+		"payment" : "conless_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 여의도역점",
+		"id" : 253,
+		"place_id" : 949,
+		"payment" : "conless_union",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 S9 여의도역점",
+		"id" : 254,
+		"place_id" : 950,
+		"payment" : "conless_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 S9 여의도역점",
+		"id" : 255,
+		"place_id" : 950,
+		"payment" : "conless_union",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "여의도약국",
+		"id" : 256,
+		"place_id" : 951,
+		"payment" : "conless_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "맥도날드 중계점",
+		"id" : 257,
+		"place_id" : 32,
+		"payment" : "conless_visa",
+		"writer" : "Wee"
+	},
+	{
+		"place" : "cu지지대고개",
+		"id" : 258,
+		"place_id" : 954,
+		"payment" : "conless_visa",
+		"writer" : "ㅁㄴㄴㅇㄹ"
+	},
+	{
+		"place" : "CU 대전관평3단지점",
+		"id" : 259,
+		"place_id" : 955,
+		"payment" : "conless_visa",
+		"writer" : "a1100"
+	},
+	{
+		"place" : "GS25 관평네오미점",
+		"id" : 260,
+		"place_id" : 956,
+		"payment" : "conless_visa",
+		"writer" : "a1100"
+	},
+	{
+		"place" : "CU 인천역센트럴시티점",
+		"id" : 261,
+		"place_id" : 957,
+		"payment" : "conless_master",
+		"writer" : "Mak"
+	},
+	{
+		"place" : "CU 충북혁신골드타워점",
+		"id" : 262,
+		"place_id" : 959,
+		"payment" : "conless_visa",
+		"writer" : "엠구"
+	},
+	{
+		"place" : "롯데리아 오남어람점",
+		"id" : 263,
+		"place_id" : 960,
+		"payment" : "conless_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 오남어람점",
+		"id" : 264,
+		"place_id" : 960,
+		"payment" : "conless_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 오남어람점",
+		"id" : 265,
+		"place_id" : 960,
+		"payment" : "conless_union",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 266,
+		"place_id" : 961,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 267,
+		"place_id" : 961,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 268,
+		"place_id" : 961,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 269,
+		"place_id" : 961,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 270,
+		"place_id" : 962,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 271,
+		"place_id" : 962,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 272,
+		"place_id" : 962,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 273,
+		"place_id" : 962,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 274,
+		"place_id" : 963,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 275,
+		"place_id" : 963,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 276,
+		"place_id" : 963,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 277,
+		"place_id" : 963,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 278,
+		"place_id" : 964,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 279,
+		"place_id" : 964,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 280,
+		"place_id" : 964,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 281,
+		"place_id" : 964,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 282,
+		"place_id" : 965,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 283,
+		"place_id" : 965,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 284,
+		"place_id" : 965,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 285,
+		"place_id" : 966,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 286,
+		"place_id" : 966,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 287,
+		"place_id" : 966,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 288,
+		"place_id" : 966,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 289,
+		"place_id" : 967,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 290,
+		"place_id" : 967,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 291,
+		"place_id" : 967,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 292,
+		"place_id" : 967,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 293,
+		"place_id" : 968,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 294,
+		"place_id" : 968,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 295,
+		"place_id" : 968,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 296,
+		"place_id" : 968,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 장덕미소점",
+		"id" : 297,
+		"place_id" : 969,
+		"payment" : "conless_master",
+		"writer" : "Juneh"
+	},
+	{
+		"place" : "CU 왕십리센트라스점",
+		"id" : 298,
+		"place_id" : 970,
+		"payment" : "conless_union",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 센트라스중앙점",
+		"id" : 299,
+		"place_id" : 972,
+		"payment" : "conless_union",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "롯데리아 왕십리역점",
+		"id" : 300,
+		"place_id" : 977,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 강릉안목해변점",
+		"id" : 301,
+		"place_id" : 978,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "GS25 송도스마트밸리점",
+		"id" : 302,
+		"place_id" : 979,
+		"payment" : "conless_visa",
+		"writer" : "제제라니까"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 303,
+		"place_id" : 856,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 304,
+		"place_id" : 980,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 305,
+		"place_id" : 980,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 306,
+		"place_id" : 981,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 307,
+		"place_id" : 981,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 308,
+		"place_id" : 982,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 309,
+		"place_id" : 982,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 310,
+		"place_id" : 983,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 311,
+		"place_id" : 983,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 312,
+		"place_id" : 984,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 313,
+		"place_id" : 984,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "다이소 분당서현점",
+		"id" : 314,
+		"place_id" : 985,
+		"payment" : "conless_union",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "서울역",
+		"id" : 315,
+		"place_id" : 986,
+		"payment" : "conless_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "영등포역",
+		"id" : 316,
+		"place_id" : 987,
+		"payment" : "conless_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "안양역",
+		"id" : 317,
+		"place_id" : 988,
+		"payment" : "conless_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 318,
+		"place_id" : 989,
+		"payment" : "conless_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 319,
+		"place_id" : 989,
+		"payment" : "conless_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 320,
+		"place_id" : 989,
+		"payment" : "conless_union",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 321,
+		"place_id" : 990,
+		"payment" : "conless_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 322,
+		"place_id" : 990,
+		"payment" : "conless_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 323,
+		"place_id" : 990,
+		"payment" : "conless_amex",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 324,
+		"place_id" : 990,
+		"payment" : "conless_union",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "수원역",
+		"id" : 325,
+		"place_id" : 991,
+		"payment" : "conless_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 326,
+		"place_id" : 992,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 327,
+		"place_id" : 992,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 328,
+		"place_id" : 992,
+		"payment" : "conless_amex",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 329,
+		"place_id" : 992,
+		"payment" : "conless_union",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 330,
+		"place_id" : 992,
+		"payment" : "conless_jcb",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "롯데리아 대구장기점",
+		"id" : 331,
+		"place_id" : 993,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 장기휴포레점",
+		"id" : 332,
+		"place_id" : 994,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서감삼점",
+		"id" : 333,
+		"place_id" : 995,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서하늘채점",
+		"id" : 334,
+		"place_id" : 996,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 우방드림시티점",
+		"id" : 335,
+		"place_id" : 997,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 우방드림시티점",
+		"id" : 336,
+		"place_id" : 997,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 원주유보라점",
+		"id" : 337,
+		"place_id" : 999,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 춘천캐슬점",
+		"id" : 338,
+		"place_id" : 1000,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 후평본점",
+		"id" : 339,
+		"place_id" : 1001,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 한화리조트설악점",
+		"id" : 340,
+		"place_id" : 1002,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 안목해오름점",
+		"id" : 356,
+		"place_id" : 1022,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 357,
+		"place_id" : 1023,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 358,
+		"place_id" : 1023,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 359,
+		"place_id" : 1023,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 360,
+		"place_id" : 1024,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 361,
+		"place_id" : 1024,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 362,
+		"place_id" : 1024,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 363,
+		"place_id" : 1025,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 364,
+		"place_id" : 1025,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 365,
+		"place_id" : 1025,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 366,
+		"place_id" : 1026,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 367,
+		"place_id" : 1026,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 368,
+		"place_id" : 1026,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 369,
+		"place_id" : 1027,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 370,
+		"place_id" : 1027,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 371,
+		"place_id" : 1027,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 372,
+		"place_id" : 1028,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 373,
+		"place_id" : 1028,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 374,
+		"place_id" : 1028,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 375,
+		"place_id" : 1029,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 376,
+		"place_id" : 1029,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 377,
+		"place_id" : 1029,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "Gs25 한강뚝섬3호점",
+		"id" : 378,
+		"place_id" : 1031,
+		"payment" : "conless_visa",
+		"writer" : "서동학개미"
+	},
+	{
+		"place" : "세이브존 대전점",
+		"id" : 379,
+		"place_id" : 1032,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 해운대점",
+		"id" : 380,
+		"place_id" : 1033,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 삼성RND점",
+		"id" : 381,
+		"place_id" : 1034,
+		"payment" : "conless_visa",
+		"writer" : "루피"
+	},
+	{
+		"place" : "GS25 삼성RND점",
+		"id" : 382,
+		"place_id" : 1034,
+		"payment" : "conless_union",
+		"writer" : "루피"
+	},
+	{
+		"place" : "다이소 상왕십리역점",
+		"id" : 383,
+		"place_id" : 1035,
+		"payment" : "conless_union",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "다이소 비트플렉스 왕십리역점",
+		"id" : 384,
+		"place_id" : 1036,
+		"payment" : "conless_union",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "롯데리아 왕십리역사점",
+		"id" : 385,
+		"place_id" : 1037,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "세븐일레븐 왕십리센트라스점",
+		"id" : 386,
+		"place_id" : 1039,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 안산선부역점",
+		"id" : 415,
+		"place_id" : 1054,
+		"payment" : "conless_visa",
+		"writer" : "임준혁"
+	},
+	{
+		"place" : "CU 안산선부역점",
+		"id" : 416,
+		"place_id" : 1054,
+		"payment" : "ContactVISA",
+		"writer" : "임준혁"
+	},
+	{
+		"place" : "Apple 가로수길",
+		"id" : 417,
+		"place_id" : 1055,
+		"payment" : "ContactVISA",
+		"writer" : "임준혁"
+	},
+	{
+		"place" : "에스지시스템포천점",
+		"id" : 418,
+		"place_id" : 1057,
+		"payment" : "conless_union",
+		"writer" : "루피"
+	},
+	{
+		"place" : "도마프라자약국",
+		"id" : 419,
+		"place_id" : 1061,
+		"payment" : "conless_visa",
+		"writer" : "비밀~"
+	},
+	{
+		"place" : "서울대병원",
+		"id" : 420,
+		"place_id" : 1062,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "분당차병원",
+		"id" : 421,
+		"place_id" : 1063,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스토리웨이 야탑맞이종합편의점",
+		"id" : 423,
+		"place_id" : 1067,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스토리웨이 야탑맞이종합편의점",
+		"id" : 424,
+		"place_id" : 1067,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "교보문고 광화문점",
+		"id" : 425,
+		"place_id" : 1068,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "교보문고 광화문점",
+		"id" : 426,
+		"place_id" : 1068,
+		"payment" : "conless_union",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "교보문고 동대문바로드림센터",
+		"id" : 427,
+		"place_id" : 1069,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "교보문고 동대문바로드림센터",
+		"id" : 428,
+		"place_id" : 1069,
+		"payment" : "conless_union",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "세븐일레븐 대구월성효성점",
+		"id" : 429,
+		"place_id" : 1072,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25월성센트로점",
+		"id" : 430,
+		"place_id" : 1073,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "이마트24 월성보성2단지점",
+		"id" : 431,
+		"place_id" : 1075,
+		"payment" : "conless_union",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 성서하나로마트",
+		"id" : 432,
+		"place_id" : 1076,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 433,
+		"place_id" : 1077,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 434,
+		"place_id" : 1077,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 435,
+		"place_id" : 1077,
+		"payment" : "conless_amex",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 436,
+		"place_id" : 1077,
+		"payment" : "conless_union",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 437,
+		"place_id" : 1077,
+		"payment" : "conless_jcb",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 성서점",
+		"id" : 438,
+		"place_id" : 1078,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서장기사랑점",
+		"id" : 439,
+		"place_id" : 1079,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "공차 대구월성점",
+		"id" : 440,
+		"place_id" : 1080,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구신월성푸르지오점",
+		"id" : 441,
+		"place_id" : 1081,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 442,
+		"place_id" : 1082,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 443,
+		"place_id" : 1082,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 444,
+		"place_id" : 1082,
+		"payment" : "conless_jcb",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 대구감삼점",
+		"id" : 445,
+		"place_id" : 1083,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 446,
+		"place_id" : 1084,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 447,
+		"place_id" : 1084,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 448,
+		"place_id" : 1084,
+		"payment" : "conless_jcb",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 두류역점",
+		"id" : 449,
+		"place_id" : 1085,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일래븐 대구광장타운점",
+		"id" : 450,
+		"place_id" : 1086,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일래븐 대구두류역사점",
+		"id" : 451,
+		"place_id" : 1087,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당대로점",
+		"id" : 452,
+		"place_id" : 1088,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "미니스톱 대구두류점",
+		"id" : 453,
+		"place_id" : 1089,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "미니스톱 대구두류점",
+		"id" : 454,
+		"place_id" : 1089,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "미니스톱 대구두류점",
+		"id" : 455,
+		"place_id" : 1089,
+		"payment" : "conless_union",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 내당점",
+		"id" : 456,
+		"place_id" : 1090,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "롯데리아 홈플러스내당점",
+		"id" : 457,
+		"place_id" : 1091,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "공차 홈플러스성서점",
+		"id" : 458,
+		"place_id" : 1092,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "다이소 홈플러스성서점",
+		"id" : 459,
+		"place_id" : 1093,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "아디다스 홈플러스성서점",
+		"id" : 460,
+		"place_id" : 1094,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 대구이곡역점",
+		"id" : 461,
+		"place_id" : 1095,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 대구이곡역점",
+		"id" : 462,
+		"place_id" : 1095,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게트 대구반월당점",
+		"id" : 463,
+		"place_id" : 1096,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 삼덕대로점",
+		"id" : 464,
+		"place_id" : 1097,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 삼덕대로점",
+		"id" : 465,
+		"place_id" : 1097,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 중구통신거리점",
+		"id" : 466,
+		"place_id" : 1098,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 중구통신거리점",
+		"id" : 467,
+		"place_id" : 1098,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구현대점",
+		"id" : 468,
+		"place_id" : 1099,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로2호점",
+		"id" : 469,
+		"place_id" : 1100,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로2호점",
+		"id" : 470,
+		"place_id" : 1100,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로교보점",
+		"id" : 471,
+		"place_id" : 1101,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로교보점",
+		"id" : 472,
+		"place_id" : 1101,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "세븐일레븐 대구 본리스타점",
+		"id" : 473,
+		"place_id" : 1102,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "스타벅스 대구감삼DT점",
+		"id" : 474,
+		"place_id" : 1103,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 475,
+		"place_id" : 1105,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 476,
+		"place_id" : 1105,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 477,
+		"place_id" : 1105,
+		"payment" : "conless_amex",
+		"writer" : "DT"
+	},
+	{
+		"place" : "파리바게뜨 산성역점",
+		"id" : 478,
+		"place_id" : 1105,
+		"payment" : "conless_union",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 태안진흥점",
+		"id" : 479,
+		"place_id" : 1106,
+		"payment" : "conless_visa",
+		"writer" : "최염분"
+	},
+	{
+		"place" : "CU 태안동문점",
+		"id" : 480,
+		"place_id" : 1107,
+		"payment" : "conless_visa",
+		"writer" : "최염분"
+	},
+	{
+		"place" : "CU태안읍내점",
+		"id" : 481,
+		"place_id" : 1108,
+		"payment" : "conless_visa",
+		"writer" : "최염분"
+	},
+	{
+		"place" : "세븐일레븐 원주일호점",
+		"id" : 483,
+		"place_id" : 1109,
+		"payment" : "conless_visa",
+		"writer" : "김푸름"
+	},
+	{
+		"place" : "토리헤어 산본역점",
+		"id" : 484,
+		"place_id" : 1111,
+		"payment" : "conless_visa",
+		"writer" : "13i"
+	},
+	{
+		"place" : "군포 다솔약국",
+		"id" : 485,
+		"place_id" : 1112,
+		"payment" : "conless_visa",
+		"writer" : "13i"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 486,
+		"place_id" : 1113,
+		"payment" : "conless_visa",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 487,
+		"place_id" : 1113,
+		"payment" : "conless_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 488,
+		"place_id" : 1113,
+		"payment" : "conless_amex",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 489,
+		"place_id" : 1113,
+		"payment" : "conless_union",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 490,
+		"place_id" : 1113,
+		"payment" : "conless_jcb",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "대구근대골목단팥빵 서대구역점",
+		"id" : 491,
+		"place_id" : 1114,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 인천구산점DT",
+		"id" : 492,
+		"place_id" : 1115,
+		"payment" : "conless_visa",
+		"writer" : "."
+	},
+	{
+		"place" : "맥도날드 한양대점",
+		"id" : 493,
+		"place_id" : 1118,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 왕십리센트라스점",
+		"id" : 494,
+		"place_id" : 970,
+		"payment" : "conless_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "CU 의성북원점",
+		"id" : 495,
+		"place_id" : 1121,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 의성북원점",
+		"id" : 496,
+		"place_id" : 1121,
+		"payment" : "conless_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당점",
+		"id" : 497,
+		"place_id" : 1123,
+		"payment" : "conless_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 498,
+		"place_id" : 859,
+		"payment" : "conless_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "뚜레쥬르 남한산성역점",
+		"id" : 499,
+		"place_id" : 1125,
+		"payment" : "conless_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 오남상일점",
+		"id" : 10,
+		"place_id" : 762,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남대한점",
+		"id" : 11,
+		"place_id" : 763,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 오남신일점",
+		"id" : 12,
+		"place_id" : 764,
+		"payment" : "google_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 오남신일점",
+		"id" : 13,
+		"place_id" : 764,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 진건송능점",
+		"id" : 14,
+		"place_id" : 765,
+		"payment" : "google_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "CU 진건송능점",
+		"id" : 15,
+		"place_id" : 765,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남동명점",
+		"id" : 16,
+		"place_id" : 766,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 언더랜드점 (오거스팩토리)",
+		"id" : 17,
+		"place_id" : 767,
+		"payment" : "google_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 진접DT점",
+		"id" : 18,
+		"place_id" : 769,
+		"payment" : "google_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 진접DT점",
+		"id" : 19,
+		"place_id" : 769,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 오남호수점",
+		"id" : 20,
+		"place_id" : 770,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "GS25 남양주본점",
+		"id" : 21,
+		"place_id" : 771,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 잠실역점",
+		"id" : 22,
+		"place_id" : 772,
+		"payment" : "google_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "맥도날드 잠실역점",
+		"id" : 23,
+		"place_id" : 772,
+		"payment" : "google_visa",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 잠실롯데월드몰B1점",
+		"id" : 24,
+		"place_id" : 773,
+		"payment" : "google_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "롯데리아 월드점",
+		"id" : 25,
+		"place_id" : 774,
+		"payment" : "google_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "투썸플레이스 남양주오남점 (해외비자 아예불가)",
+		"id" : 26,
+		"place_id" : 776,
+		"payment" : "google_master",
+		"writer" : "퓨처마츠"
+	},
+	{
+		"place" : "빽다방 산성역점",
+		"id" : 27,
+		"place_id" : 60,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "빽다방 산성역점",
+		"id" : 28,
+		"place_id" : 60,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 양지사랑점",
+		"id" : 29,
+		"place_id" : 784,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 양지사랑점",
+		"id" : 30,
+		"place_id" : 784,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지2호점",
+		"id" : 31,
+		"place_id" : 785,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지점",
+		"id" : 32,
+		"place_id" : 786,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남양지점",
+		"id" : 33,
+		"place_id" : 786,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행공원점",
+		"id" : 34,
+		"place_id" : 787,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행공원점",
+		"id" : 35,
+		"place_id" : 787,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남을지산성점",
+		"id" : 36,
+		"place_id" : 788,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남을지산성점",
+		"id" : 37,
+		"place_id" : 788,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행현대점",
+		"id" : 38,
+		"place_id" : 789,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행현대점",
+		"id" : 39,
+		"place_id" : 789,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남희망점",
+		"id" : 40,
+		"place_id" : 790,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남희망점",
+		"id" : 41,
+		"place_id" : 790,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행번영점",
+		"id" : 42,
+		"place_id" : 791,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행번영점",
+		"id" : 43,
+		"place_id" : 791,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남감나무골점",
+		"id" : 44,
+		"place_id" : 792,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남감나무골점",
+		"id" : 45,
+		"place_id" : 792,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행길목점",
+		"id" : 46,
+		"place_id" : 793,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행길목점",
+		"id" : 47,
+		"place_id" : 793,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행주공점",
+		"id" : 48,
+		"place_id" : 794,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남은행주공점",
+		"id" : 49,
+		"place_id" : 794,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광본점",
+		"id" : 50,
+		"place_id" : 795,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광본점",
+		"id" : 51,
+		"place_id" : 795,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 금광빌리지점",
+		"id" : 52,
+		"place_id" : 796,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 금광빌리지점",
+		"id" : 53,
+		"place_id" : 796,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남단대역점",
+		"id" : 54,
+		"place_id" : 797,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남단대역점",
+		"id" : 55,
+		"place_id" : 797,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광단대점",
+		"id" : 56,
+		"place_id" : 798,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남금광단대점",
+		"id" : 57,
+		"place_id" : 798,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원점",
+		"id" : 58,
+		"place_id" : 799,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원점",
+		"id" : 59,
+		"place_id" : 799,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원금상점",
+		"id" : 60,
+		"place_id" : 800,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원금상점",
+		"id" : 61,
+		"place_id" : 800,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원박석로점",
+		"id" : 62,
+		"place_id" : 801,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원박석로점",
+		"id" : 63,
+		"place_id" : 801,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남제일점",
+		"id" : 64,
+		"place_id" : 802,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남제일점",
+		"id" : 65,
+		"place_id" : 802,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반석정든점",
+		"id" : 66,
+		"place_id" : 803,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반석정든점",
+		"id" : 67,
+		"place_id" : 803,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평성대점",
+		"id" : 68,
+		"place_id" : 804,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평성대점",
+		"id" : 69,
+		"place_id" : 804,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원본점",
+		"id" : 70,
+		"place_id" : 805,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원본점",
+		"id" : 71,
+		"place_id" : 805,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남소울트리점",
+		"id" : 72,
+		"place_id" : 806,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남소울트리점",
+		"id" : 73,
+		"place_id" : 806,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례1호점",
+		"id" : 74,
+		"place_id" : 807,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례1호점",
+		"id" : 75,
+		"place_id" : 807,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남인더스점",
+		"id" : 76,
+		"place_id" : 808,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남인더스점",
+		"id" : 77,
+		"place_id" : 808,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평금빛점",
+		"id" : 78,
+		"place_id" : 809,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평금빛점",
+		"id" : 79,
+		"place_id" : 809,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남산성번영점",
+		"id" : 80,
+		"place_id" : 810,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남산성번영점",
+		"id" : 81,
+		"place_id" : 810,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례2호점",
+		"id" : 82,
+		"place_id" : 811,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남위례2호점",
+		"id" : 83,
+		"place_id" : 811,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평이마트점",
+		"id" : 84,
+		"place_id" : 812,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평이마트점",
+		"id" : 85,
+		"place_id" : 812,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남라이온스밸리점",
+		"id" : 86,
+		"place_id" : 813,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남라이온스밸리점",
+		"id" : 87,
+		"place_id" : 813,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 하남엠코점",
+		"id" : 88,
+		"place_id" : 814,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 하남엠코점",
+		"id" : 89,
+		"place_id" : 814,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원중앙점",
+		"id" : 90,
+		"place_id" : 815,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원중앙점",
+		"id" : 91,
+		"place_id" : 815,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례참좋은점",
+		"id" : 92,
+		"place_id" : 816,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례참좋은점",
+		"id" : 93,
+		"place_id" : 816,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례중앙타워점",
+		"id" : 94,
+		"place_id" : 817,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 위례중앙타워점",
+		"id" : 95,
+		"place_id" : 817,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원본점",
+		"id" : 96,
+		"place_id" : 818,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 상대원본점",
+		"id" : 97,
+		"place_id" : 818,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남광장점",
+		"id" : 98,
+		"place_id" : 819,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남광장점",
+		"id" : 99,
+		"place_id" : 819,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진중앙점",
+		"id" : 100,
+		"place_id" : 820,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진중앙점",
+		"id" : 101,
+		"place_id" : 820,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 서울복합물류단지점",
+		"id" : 102,
+		"place_id" : 821,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 서울복합물류단지점",
+		"id" : 103,
+		"place_id" : 821,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙시장점",
+		"id" : 104,
+		"place_id" : 822,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙시장점",
+		"id" : 105,
+		"place_id" : 822,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정중앙점",
+		"id" : 106,
+		"place_id" : 823,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정중앙점",
+		"id" : 107,
+		"place_id" : 823,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 태평마리골드점",
+		"id" : 108,
+		"place_id" : 824,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 태평마리골드점",
+		"id" : 109,
+		"place_id" : 824,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남대원중앙점",
+		"id" : 110,
+		"place_id" : 825,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남대원중앙점",
+		"id" : 111,
+		"place_id" : 825,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남크란츠빌점",
+		"id" : 112,
+		"place_id" : 826,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남크란츠빌점",
+		"id" : 113,
+		"place_id" : 826,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정국제점",
+		"id" : 114,
+		"place_id" : 827,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남복정국제점",
+		"id" : 115,
+		"place_id" : 827,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수정점",
+		"id" : 116,
+		"place_id" : 828,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수정점",
+		"id" : 117,
+		"place_id" : 828,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남공단본점",
+		"id" : 118,
+		"place_id" : 829,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남공단본점",
+		"id" : 119,
+		"place_id" : 829,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남오거리점",
+		"id" : 120,
+		"place_id" : 830,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남오거리점",
+		"id" : 121,
+		"place_id" : 830,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙점",
+		"id" : 122,
+		"place_id" : 831,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중앙점",
+		"id" : 123,
+		"place_id" : 831,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남동서울대점",
+		"id" : 124,
+		"place_id" : 832,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남동서울대점",
+		"id" : 125,
+		"place_id" : 832,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반포산업점",
+		"id" : 126,
+		"place_id" : 833,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남반포산업점",
+		"id" : 127,
+		"place_id" : 833,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 장지대진점",
+		"id" : 128,
+		"place_id" : 834,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 장지대진점",
+		"id" : 129,
+		"place_id" : 834,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남어울림점",
+		"id" : 130,
+		"place_id" : 835,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남어울림점",
+		"id" : 131,
+		"place_id" : 835,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중원빌리지점",
+		"id" : 132,
+		"place_id" : 836,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남중원빌리지점",
+		"id" : 133,
+		"place_id" : 836,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원일성점",
+		"id" : 134,
+		"place_id" : 837,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원일성점",
+		"id" : 135,
+		"place_id" : 837,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대3호점",
+		"id" : 136,
+		"place_id" : 838,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대3호점",
+		"id" : 137,
+		"place_id" : 838,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평중파점",
+		"id" : 138,
+		"place_id" : 839,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평중파점",
+		"id" : 139,
+		"place_id" : 839,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원별빛점",
+		"id" : 140,
+		"place_id" : 840,
+		"payment" : "google_visa",
+		"writer" : "DY"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원별빛점",
+		"id" : 141,
+		"place_id" : 840,
+		"payment" : "google_visa",
+		"writer" : "DY"
+	},
+	{
+		"place" : "세븐일레븐 성남시그마밸리점",
+		"id" : 142,
+		"place_id" : 841,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남시그마밸리점",
+		"id" : 143,
+		"place_id" : 841,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진본점",
+		"id" : 144,
+		"place_id" : 842,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남수진본점",
+		"id" : 145,
+		"place_id" : 842,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남가천대역점",
+		"id" : 146,
+		"place_id" : 843,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남가천대역점",
+		"id" : 147,
+		"place_id" : 843,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대1호점",
+		"id" : 148,
+		"place_id" : 844,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 가천대1호점",
+		"id" : 149,
+		"place_id" : 844,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란중앙점",
+		"id" : 150,
+		"place_id" : 845,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란중앙점",
+		"id" : 151,
+		"place_id" : 845,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원스타점",
+		"id" : 152,
+		"place_id" : 846,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남상대원스타점",
+		"id" : 153,
+		"place_id" : 846,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 송파장지점",
+		"id" : 154,
+		"place_id" : 847,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 송파장지점",
+		"id" : 155,
+		"place_id" : 847,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남메디컬점",
+		"id" : 156,
+		"place_id" : 848,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남메디컬점",
+		"id" : 157,
+		"place_id" : 848,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평점",
+		"id" : 158,
+		"place_id" : 849,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남태평점",
+		"id" : 159,
+		"place_id" : 849,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남운동장점",
+		"id" : 160,
+		"place_id" : 850,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남운동장점",
+		"id" : 161,
+		"place_id" : 850,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란수진점",
+		"id" : 162,
+		"place_id" : 851,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세븐일레븐 성남모란수진점",
+		"id" : 163,
+		"place_id" : 851,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "우체국 성남점",
+		"id" : 164,
+		"place_id" : 855,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "우체국 성남점",
+		"id" : 165,
+		"place_id" : 855,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 166,
+		"place_id" : 856,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 167,
+		"place_id" : 856,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 168,
+		"place_id" : 857,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 169,
+		"place_id" : 857,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 170,
+		"place_id" : 857,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 171,
+		"place_id" : 857,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "영양군 생태공원 사업소 ",
+		"id" : 172,
+		"place_id" : 857,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 173,
+		"place_id" : 858,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 174,
+		"place_id" : 858,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 175,
+		"place_id" : 858,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 176,
+		"place_id" : 858,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남을지대점",
+		"id" : 177,
+		"place_id" : 858,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 178,
+		"place_id" : 859,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 179,
+		"place_id" : 859,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 180,
+		"place_id" : 859,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 181,
+		"place_id" : 859,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 성남신흥역점",
+		"id" : 182,
+		"place_id" : 859,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 183,
+		"place_id" : 860,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 184,
+		"place_id" : 860,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 185,
+		"place_id" : 860,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 186,
+		"place_id" : 860,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "투썸플레이스 위례역점",
+		"id" : 187,
+		"place_id" : 860,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금동우편취급국",
+		"id" : 188,
+		"place_id" : 861,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금동우편취급국",
+		"id" : 189,
+		"place_id" : 861,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남태평2동우편취급국",
+		"id" : 190,
+		"place_id" : 862,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남태평2동우편취급국",
+		"id" : 191,
+		"place_id" : 862,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금광동우체국",
+		"id" : 192,
+		"place_id" : 863,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남금광동우체국",
+		"id" : 193,
+		"place_id" : 863,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남단대동우체국",
+		"id" : 194,
+		"place_id" : 864,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "성남단대동우체국",
+		"id" : 195,
+		"place_id" : 864,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 196,
+		"place_id" : 865,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 197,
+		"place_id" : 865,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 198,
+		"place_id" : 865,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 199,
+		"place_id" : 865,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "시그니엘",
+		"id" : 200,
+		"place_id" : 865,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 잠실점",
+		"id" : 201,
+		"place_id" : 866,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 잠실점",
+		"id" : 202,
+		"place_id" : 866,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 강동점",
+		"id" : 203,
+		"place_id" : 867,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 강동점",
+		"id" : 204,
+		"place_id" : 867,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 경기하남점",
+		"id" : 205,
+		"place_id" : 868,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 경기하남점",
+		"id" : 206,
+		"place_id" : 868,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 분당오리점",
+		"id" : 207,
+		"place_id" : 869,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "홈플러스 분당오리점",
+		"id" : 208,
+		"place_id" : 869,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 209,
+		"place_id" : 870,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 210,
+		"place_id" : 870,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 211,
+		"place_id" : 870,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 212,
+		"place_id" : 870,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남중동점",
+		"id" : 213,
+		"place_id" : 870,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 214,
+		"place_id" : 871,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 215,
+		"place_id" : 871,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 216,
+		"place_id" : 871,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 217,
+		"place_id" : 871,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 신흥승리점",
+		"id" : 218,
+		"place_id" : 871,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 219,
+		"place_id" : 872,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 220,
+		"place_id" : 872,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 221,
+		"place_id" : 872,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 222,
+		"place_id" : 872,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남광명점",
+		"id" : 223,
+		"place_id" : 872,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 224,
+		"place_id" : 873,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 225,
+		"place_id" : 873,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 226,
+		"place_id" : 873,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 227,
+		"place_id" : 873,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "미니스톱 성남위례역점",
+		"id" : 228,
+		"place_id" : 873,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 229,
+		"place_id" : 889,
+		"payment" : "google_master",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 230,
+		"place_id" : 889,
+		"payment" : "google_visa",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 231,
+		"place_id" : 889,
+		"payment" : "google_visa",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 232,
+		"place_id" : 889,
+		"payment" : "google_master",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "밥밥디라라",
+		"id" : 233,
+		"place_id" : 889,
+		"payment" : "google_master",
+		"writer" : "밥밥디라라"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 234,
+		"place_id" : 890,
+		"payment" : "google_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 235,
+		"place_id" : 890,
+		"payment" : "google_visa",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 236,
+		"place_id" : 890,
+		"payment" : "google_visa",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 237,
+		"place_id" : 890,
+		"payment" : "google_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "청룡환경",
+		"id" : 238,
+		"place_id" : 890,
+		"payment" : "google_master",
+		"writer" : "대측분기"
+	},
+	{
+		"place" : "태경소",
+		"id" : 239,
+		"place_id" : 893,
+		"payment" : "google_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 240,
+		"place_id" : 893,
+		"payment" : "google_visa",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 241,
+		"place_id" : 893,
+		"payment" : "google_visa",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 242,
+		"place_id" : 893,
+		"payment" : "google_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "태경소",
+		"id" : 243,
+		"place_id" : 893,
+		"payment" : "google_master",
+		"writer" : "19"
+	},
+	{
+		"place" : "라발스",
+		"id" : 244,
+		"place_id" : 894,
+		"payment" : "google_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 245,
+		"place_id" : 894,
+		"payment" : "google_visa",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 246,
+		"place_id" : 894,
+		"payment" : "google_visa",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 247,
+		"place_id" : 894,
+		"payment" : "google_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "라발스",
+		"id" : 248,
+		"place_id" : 894,
+		"payment" : "google_master",
+		"writer" : "컴바인"
+	},
+	{
+		"place" : "스타벅스 가로수길점",
+		"id" : 249,
+		"place_id" : 907,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 가로수길점",
+		"id" : 250,
+		"place_id" : 907,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 고속터미널 점, 스타벅스",
+		"id" : 251,
+		"place_id" : 908,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스타벅스 고속터미널 점, 스타벅스",
+		"id" : 252,
+		"place_id" : 908,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU옥천 양수점",
+		"id" : 253,
+		"place_id" : 944,
+		"payment" : "google_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "CU 옥천지엘점",
+		"id" : 254,
+		"place_id" : 946,
+		"payment" : "google_visa",
+		"writer" : "잡스와팀쿡"
+	},
+	{
+		"place" : "GS25 여의도역점",
+		"id" : 255,
+		"place_id" : 949,
+		"payment" : "google_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 여의도역점",
+		"id" : 256,
+		"place_id" : 949,
+		"payment" : "google_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 S9 여의도역점",
+		"id" : 257,
+		"place_id" : 950,
+		"payment" : "google_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "GS25 S9 여의도역점",
+		"id" : 258,
+		"place_id" : 950,
+		"payment" : "google_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "여의도약국",
+		"id" : 259,
+		"place_id" : 951,
+		"payment" : "google_visa",
+		"writer" : "김여의도"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 260,
+		"place_id" : 961,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "롯데리아 한성대입구역점",
+		"id" : 261,
+		"place_id" : 961,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 262,
+		"place_id" : 962,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 263,
+		"place_id" : 962,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 삼선점",
+		"id" : 264,
+		"place_id" : 962,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 265,
+		"place_id" : 963,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 266,
+		"place_id" : 963,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 267,
+		"place_id" : 963,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 268,
+		"place_id" : 963,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 석촌역점",
+		"id" : 269,
+		"place_id" : 963,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 270,
+		"place_id" : 964,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 271,
+		"place_id" : 964,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 272,
+		"place_id" : 964,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 273,
+		"place_id" : 964,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 송파잠실DT점",
+		"id" : 274,
+		"place_id" : 964,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 275,
+		"place_id" : 965,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 276,
+		"place_id" : 965,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 277,
+		"place_id" : 965,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 278,
+		"place_id" : 965,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 명동점",
+		"id" : 279,
+		"place_id" : 965,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 280,
+		"place_id" : 966,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 281,
+		"place_id" : 966,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 282,
+		"place_id" : 966,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 283,
+		"place_id" : 966,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 성균관대점　",
+		"id" : 284,
+		"place_id" : 966,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 285,
+		"place_id" : 967,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 286,
+		"place_id" : 967,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 287,
+		"place_id" : 967,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 288,
+		"place_id" : 967,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 위례신도시점",
+		"id" : 289,
+		"place_id" : 967,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 290,
+		"place_id" : 968,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "맥도날드 가락 DT점",
+		"id" : 291,
+		"place_id" : 968,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 292,
+		"place_id" : 980,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 293,
+		"place_id" : 980,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 294,
+		"place_id" : 981,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 295,
+		"place_id" : 981,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 296,
+		"place_id" : 982,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 297,
+		"place_id" : 982,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 298,
+		"place_id" : 983,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 299,
+		"place_id" : 983,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 300,
+		"place_id" : 984,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 301,
+		"place_id" : 984,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 302,
+		"place_id" : 989,
+		"payment" : "google_master",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "스토리웨이 안양맞이방점",
+		"id" : 303,
+		"place_id" : 989,
+		"payment" : "google_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 304,
+		"place_id" : 990,
+		"payment" : "google_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "롯데리아 수원역사점",
+		"id" : 305,
+		"place_id" : 990,
+		"payment" : "google_visa",
+		"writer" : "국내 애플페이 존버"
+	},
+	{
+		"place" : "CU 알리앙스점",
+		"id" : 306,
+		"place_id" : 992,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "롯데리아 대구장기점",
+		"id" : 307,
+		"place_id" : 993,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 장기휴포레점",
+		"id" : 308,
+		"place_id" : 994,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서감삼점",
+		"id" : 309,
+		"place_id" : 995,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서하늘채점",
+		"id" : 310,
+		"place_id" : 996,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 우방드림시티점",
+		"id" : 311,
+		"place_id" : 997,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 원주유보라점",
+		"id" : 312,
+		"place_id" : 999,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 원주유보라점",
+		"id" : 313,
+		"place_id" : 999,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 춘천캐슬점",
+		"id" : 314,
+		"place_id" : 1000,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 춘천캐슬점",
+		"id" : 315,
+		"place_id" : 1000,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 후평본점",
+		"id" : 316,
+		"place_id" : 1001,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 후평본점",
+		"id" : 317,
+		"place_id" : 1001,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 한화리조트설악점",
+		"id" : 318,
+		"place_id" : 1002,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "GS25 한화리조트설악점",
+		"id" : 319,
+		"place_id" : 1002,
+		"payment" : "google_visa",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 332,
+		"place_id" : 1023,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 부산역사점",
+		"id" : 333,
+		"place_id" : 1023,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 334,
+		"place_id" : 1024,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림 수서역사점",
+		"id" : 335,
+		"place_id" : 1024,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 336,
+		"place_id" : 1025,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 잠실롯데월드몰점",
+		"id" : 337,
+		"place_id" : 1025,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 338,
+		"place_id" : 1026,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 롯데백화점 잠실점",
+		"id" : 339,
+		"place_id" : 1026,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 340,
+		"place_id" : 1027,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 길동역점",
+		"id" : 341,
+		"place_id" : 1027,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 342,
+		"place_id" : 1028,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 분당수내점",
+		"id" : 343,
+		"place_id" : 1028,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 344,
+		"place_id" : 1029,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "크리스피크림도넛 대치점",
+		"id" : 345,
+		"place_id" : 1029,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 346,
+		"place_id" : 856,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 성남점",
+		"id" : 347,
+		"place_id" : 856,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 348,
+		"place_id" : 980,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 노원점",
+		"id" : 349,
+		"place_id" : 980,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 350,
+		"place_id" : 982,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 광명점",
+		"id" : 351,
+		"place_id" : 982,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 352,
+		"place_id" : 981,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 화정점",
+		"id" : 353,
+		"place_id" : 981,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 354,
+		"place_id" : 983,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 부천상동점",
+		"id" : 355,
+		"place_id" : 983,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 대전점",
+		"id" : 356,
+		"place_id" : 1032,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 대전점",
+		"id" : 357,
+		"place_id" : 1032,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 해운대점",
+		"id" : 358,
+		"place_id" : 1033,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 해운대점",
+		"id" : 359,
+		"place_id" : 1033,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 360,
+		"place_id" : 984,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "세이브존 울산점",
+		"id" : 361,
+		"place_id" : 984,
+		"payment" : "google_master",
+		"writer" : "DT"
+	},
+	{
+		"place" : "CU 수성동화아이위시점",
+		"id" : 391,
+		"place_id" : 1070,
+		"payment" : "google_visa",
+		"writer" : "모눈종이"
+	},
+	{
+		"place" : "GS25월성센트로점",
+		"id" : 392,
+		"place_id" : 1073,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU용산롯데캐슬그랜드점",
+		"id" : 393,
+		"place_id" : 1077,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 성서점",
+		"id" : 394,
+		"place_id" : 1078,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 성서점",
+		"id" : 395,
+		"place_id" : 1078,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 달서장기사랑점",
+		"id" : 396,
+		"place_id" : 1079,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 397,
+		"place_id" : 1082,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 398,
+		"place_id" : 1082,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 월성미래점",
+		"id" : 399,
+		"place_id" : 1082,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 400,
+		"place_id" : 1084,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 401,
+		"place_id" : 1084,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 대구감삼DT점",
+		"id" : 402,
+		"place_id" : 1084,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당대로점",
+		"id" : 403,
+		"place_id" : 1088,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당대로점",
+		"id" : 404,
+		"place_id" : 1088,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 내당점",
+		"id" : 405,
+		"place_id" : 1090,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "홈플러스 내당점",
+		"id" : 406,
+		"place_id" : 1090,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "공차 홈플러스성서점",
+		"id" : 407,
+		"place_id" : 1092,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "공차 홈플러스성서점",
+		"id" : 408,
+		"place_id" : 1092,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "다이소 홈플러스성서점",
+		"id" : 409,
+		"place_id" : 1093,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "다이소 홈플러스성서점",
+		"id" : 410,
+		"place_id" : 1093,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 대구이곡역점",
+		"id" : 411,
+		"place_id" : 1095,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 대구이곡역점",
+		"id" : 412,
+		"place_id" : 1095,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 대구이곡역점",
+		"id" : 413,
+		"place_id" : 1095,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 삼덕대로점",
+		"id" : 414,
+		"place_id" : 1097,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 삼덕대로점",
+		"id" : 415,
+		"place_id" : 1097,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 삼덕대로점",
+		"id" : 416,
+		"place_id" : 1097,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 중구통신거리점",
+		"id" : 417,
+		"place_id" : 1098,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 중구통신거리점",
+		"id" : 418,
+		"place_id" : 1098,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 중구통신거리점",
+		"id" : 419,
+		"place_id" : 1098,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로2호점",
+		"id" : 420,
+		"place_id" : 1100,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로2호점",
+		"id" : 421,
+		"place_id" : 1100,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로교보점",
+		"id" : 422,
+		"place_id" : 1101,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로교보점",
+		"id" : 423,
+		"place_id" : 1101,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "맥도날드 동성로교보점",
+		"id" : 424,
+		"place_id" : 1101,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 426,
+		"place_id" : 1113,
+		"payment" : "google_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 427,
+		"place_id" : 1113,
+		"payment" : "google_visa",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 428,
+		"place_id" : 1113,
+		"payment" : "google_visa",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 429,
+		"place_id" : 1113,
+		"payment" : "google_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "뮴네일",
+		"id" : 430,
+		"place_id" : 1113,
+		"payment" : "google_master",
+		"writer" : "닉네임"
+	},
+	{
+		"place" : "CU 의성북원점",
+		"id" : 431,
+		"place_id" : 1121,
+		"payment" : "google_master",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 의성북원점",
+		"id" : 432,
+		"place_id" : 1121,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "CU 의성북원점",
+		"id" : 433,
+		"place_id" : 1121,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당점",
+		"id" : 434,
+		"place_id" : 1123,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	},
+	{
+		"place" : "GS25 내당점",
+		"id" : 435,
+		"place_id" : 1123,
+		"payment" : "google_visa",
+		"writer" : "노윤호"
+	}
+]
